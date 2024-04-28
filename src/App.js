@@ -1,12 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Navbar from './components/Navbar';
+import { Outlet } from 'react-router-dom';
 
-function App() {
+export default function App() {
   return (
-    <div className='App'>
-      <div className='text-3xl'>go</div>
-    </div>
+    <>
+      <Navbar />
+      <Outlet />
+    </>
   );
 }
-
-export default App;
