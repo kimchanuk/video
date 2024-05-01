@@ -1,0 +1,1533 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "HdvUJ0D4lOTz9CF-0-8zc8fRR-I",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "I6WbmSUkLkSQZwCJOrwSS9zeUvI",
+      "id": "MjQG-a7d41Q",
+      "snippet": {
+        "publishedAt": "2024-04-29T12:31:34Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "Mufasa: The Lion King | Teaser Trailer",
+        "description": "A lion who would change our lives forever. #Mufasa: The Lion King, in theaters December 20.\n\n“Mufasa: The Lion King” enlists Rafiki to relay the legend of Mufasa to young lion cub Kiara, daughter of Simba and Nala, with Timon and Pumbaa lending their signature schtick. Told in flashbacks, the story introduces Mufasa as an orphaned cub, lost and alone until he meets a sympathetic lion named Taka—the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of an extraordinary group of misfits searching for their destiny—their bonds will be tested as they work together to evade a threatening and deadly foe.  \n \nNew and returning cast members were called on to lend their voices to the film:\n- Aaron Pierre as Mufasa\n- Kelvin Harrison Jr. as Taka, a lion prince with a bright future who accepts Mufasa into his family as a brother\n- Tiffany Boone as Sarabi\n- Kagiso Lediga as Young Rafiki\n- Preston Nyman as Zazu\n- Mads Mikkelsen as Kiros, a formidable lion with big plans for his pride \n- Thandiwe Newton as Taka’s mother, Eshe\n- Lennie James as Taka’s father, Obasi \n- Anika Noni Rose as Mufasa’s mother, Afia\n- Keith David as Mufasa’s father, Masego\n- John Kani as Rafiki\n- Seth Rogen as Pumbaa\n- Billy Eichner as Timon\n- Donald Glover as Simba\n- Introducing Blue Ivy Carter as Kiara, daughter of King Simba and Queen Nala\n- And Beyoncé Knowles-Carter as Nala\n \nAdditional casting includes Braelyn Rankins, Theo Somolu, Folake Olowofoyeku, Joanna Jones, Thuso Mbedu, Sheila Atim, Abdul Salis and Dominique Jennings.\n\n“Mufasa: The Lion King,” the new film coming to theaters Dec. 20 explores the unlikely rise of the beloved king of the Pride Lands. The film has an all-star roster of talent bringing new and fan-favorite characters to life—plus, celebrated award-winning songwriter Lin-Manuel Miranda is writing the film’s songs produced by Mark Mancina and Miranda, with additional music and performances by Lebo M. \n \nSaid Miranda, “Elton John. Tim Rice. Hans Zimmer. Lebo M. Mark Mancina. Beyoncé, Labrinth, Ilya Salmanzadeh. Beau Black, Ford Riley, the incredible music team on ‘The Lion Guard,’ and so many musical contributors over the years. ‘The Lion King’ has an incredible musical legacy with music from some of the greatest songwriters around, and I'm humbled and proud to be a part of it. It's been a joy working alongside Barry Jenkins to bring Mufasa's story to life, and we can't wait for audiences to experience this film in theaters.\"\n \nBlending live-action filmmaking techniques with photoreal computer-generated imagery, “Mufasa: The Lion King” is directed by Barry Jenkins, produced by Adele Romanski & Mark Ceryak, and executive produced by Peter Tobyansen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MjQG-a7d41Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MjQG-a7d41Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MjQG-a7d41Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MjQG-a7d41Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MjQG-a7d41Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Mufasa: The Lion King | Teaser Trailer",
+          "description": "A lion who would change our lives forever. #Mufasa: The Lion King, in theaters December 20.\n\n“Mufasa: The Lion King” enlists Rafiki to relay the legend of Mufasa to young lion cub Kiara, daughter of Simba and Nala, with Timon and Pumbaa lending their signature schtick. Told in flashbacks, the story introduces Mufasa as an orphaned cub, lost and alone until he meets a sympathetic lion named Taka—the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of an extraordinary group of misfits searching for their destiny—their bonds will be tested as they work together to evade a threatening and deadly foe.  \n \nNew and returning cast members were called on to lend their voices to the film:\n- Aaron Pierre as Mufasa\n- Kelvin Harrison Jr. as Taka, a lion prince with a bright future who accepts Mufasa into his family as a brother\n- Tiffany Boone as Sarabi\n- Kagiso Lediga as Young Rafiki\n- Preston Nyman as Zazu\n- Mads Mikkelsen as Kiros, a formidable lion with big plans for his pride \n- Thandiwe Newton as Taka’s mother, Eshe\n- Lennie James as Taka’s father, Obasi \n- Anika Noni Rose as Mufasa’s mother, Afia\n- Keith David as Mufasa’s father, Masego\n- John Kani as Rafiki\n- Seth Rogen as Pumbaa\n- Billy Eichner as Timon\n- Donald Glover as Simba\n- Introducing Blue Ivy Carter as Kiara, daughter of King Simba and Queen Nala\n- And Beyoncé Knowles-Carter as Nala\n \nAdditional casting includes Braelyn Rankins, Theo Somolu, Folake Olowofoyeku, Joanna Jones, Thuso Mbedu, Sheila Atim, Abdul Salis and Dominique Jennings.\n\n“Mufasa: The Lion King,” the new film coming to theaters Dec. 20 explores the unlikely rise of the beloved king of the Pride Lands. The film has an all-star roster of talent bringing new and fan-favorite characters to life—plus, celebrated award-winning songwriter Lin-Manuel Miranda is writing the film’s songs produced by Mark Mancina and Miranda, with additional music and performances by Lebo M. \n \nSaid Miranda, “Elton John. Tim Rice. Hans Zimmer. Lebo M. Mark Mancina. Beyoncé, Labrinth, Ilya Salmanzadeh. Beau Black, Ford Riley, the incredible music team on ‘The Lion Guard,’ and so many musical contributors over the years. ‘The Lion King’ has an incredible musical legacy with music from some of the greatest songwriters around, and I'm humbled and proud to be a part of it. It's been a joy working alongside Barry Jenkins to bring Mufasa's story to life, and we can't wait for audiences to experience this film in theaters.\"\n \nBlending live-action filmmaking techniques with photoreal computer-generated imagery, “Mufasa: The Lion King” is directed by Barry Jenkins, produced by Adele Romanski & Mark Ceryak, and executive produced by Peter Tobyansen."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qrgOd3ERWw3rzznqLtURzYOVd-Y",
+      "id": "Aoo9l_w2pq4",
+      "snippet": {
+        "publishedAt": "2024-04-29T16:00:10Z",
+        "channelId": "UCEyodonqP_80YrDvattntmw",
+        "title": "We're Married | Smosh Mouth 44",
+        "description": "Amanda, Shayne, and Courtney discuss the events of April 1, 2024. Go to http://auraframes.com and use code SMOSH to get $20 off their best-selling frame.\n\nSUBSCRIBE: https://smo.sh/Sub2SmoshCast\n\nWEAR OUR JOKES: https://smosh.com\n\nWHO YOU SEE\nCourtney Miller // https://www.instagram.com/co_mill/\nShayne Topp // https://www.instagram.com/shaynetopp/\nAmanda Lehan-Canto // https://www.instagram.com/filmingamanda/\n\nWHO YOU DON’T SEE (usually)\nDirector: Selina Garcia\nEditor: Luke Baker and Kortney Luby\nProducer: Amanda Lehan-Canto, Shayne Topp, Selina Garcia\nArt Director: Cassie Vance\nAssistant Art Director: Erin Kuschner\nArt Coordinator: Alex Aguilar, Josie Bellerby, Natalie Lewis\nProp Master: Luke Brau\nProp Assistant: Josh Pressman, Jacqui Culler\nAudio Mixer: Jose Perez\nDirector of Photography: Brennan Iketani\nVideographer: James Hull\nAssistant Director: Amanda Barnes\nDirector of Production: Amanda Barnes\nProduction Coordinator: Marcus Munguia\nOperations & Production Coordinator: Oliver Wehlander\nProduction Assistant: Ovsana Tsaturian\nPost Production Manager: Luke Baker\nDIT/Lead AE: Matt Duran\nTechnical Director: Tim Baker\nDirector of Design: Brittany Hobbs\nSenior Manager, Channel & Strategy: Lizzy Jones\nChannel Operations Coordinator: Audrey Carganilla\nSocial Creative Producer: Peter Ditzler, Tommy Bowe\nSocial Strategist: Erica Noboa, Mallory Myers\nEditorial Coordinator: Kim Wilborn\nTalent Coordinator: Selina Garcia\nOperations PA: Katie Fink\nCEO: Alessandra Catanese\nEVP of Production: Zoe Moacanin\nEVP of Programming: Kiana Parker\nExecutive Coordinator: Rachel Collis\n\nNEW SMOSH VIDEOS:\nWatch There's A Criminal Among Us: https://youtu.be/xbPBkLDdF5c\nWatch Spilling Reddit's Secrets | Reading Reddit Stories: https://youtu.be/Cx-6mKHWd2k\n\nOTHER SMOSHES:\nSmosh: https://smo.sh/Sub2Smosh\nSmosh Pit: https://smo.sh/Sub2SmoshPit\nSmosh Games: https://smo.sh/Sub2SmoshGames\nEl Smosh (Spanish Dub): https://smo.sh/Sub2ElSmosh\n\nFOLLOW US:\nTikTok: https://smo.sh/TikTok\nSnapchat: http://smo.sh/OnSnapchat\nInstagram: https://instagram.com/smosh\nFacebook: https://facebook.com/smosh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aoo9l_w2pq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aoo9l_w2pq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aoo9l_w2pq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aoo9l_w2pq4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aoo9l_w2pq4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SmoshCast",
+        "tags": ["smosh", "smoshcast", "smosh podcast", "comedy", "funny"],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "We're Married | Smosh Mouth 44",
+          "description": "Amanda, Shayne, and Courtney discuss the events of April 1, 2024. Go to http://auraframes.com and use code SMOSH to get $20 off their best-selling frame.\n\nSUBSCRIBE: https://smo.sh/Sub2SmoshCast\n\nWEAR OUR JOKES: https://smosh.com\n\nWHO YOU SEE\nCourtney Miller // https://www.instagram.com/co_mill/\nShayne Topp // https://www.instagram.com/shaynetopp/\nAmanda Lehan-Canto // https://www.instagram.com/filmingamanda/\n\nWHO YOU DON’T SEE (usually)\nDirector: Selina Garcia\nEditor: Luke Baker and Kortney Luby\nProducer: Amanda Lehan-Canto, Shayne Topp, Selina Garcia\nArt Director: Cassie Vance\nAssistant Art Director: Erin Kuschner\nArt Coordinator: Alex Aguilar, Josie Bellerby, Natalie Lewis\nProp Master: Luke Brau\nProp Assistant: Josh Pressman, Jacqui Culler\nAudio Mixer: Jose Perez\nDirector of Photography: Brennan Iketani\nVideographer: James Hull\nAssistant Director: Amanda Barnes\nDirector of Production: Amanda Barnes\nProduction Coordinator: Marcus Munguia\nOperations & Production Coordinator: Oliver Wehlander\nProduction Assistant: Ovsana Tsaturian\nPost Production Manager: Luke Baker\nDIT/Lead AE: Matt Duran\nTechnical Director: Tim Baker\nDirector of Design: Brittany Hobbs\nSenior Manager, Channel & Strategy: Lizzy Jones\nChannel Operations Coordinator: Audrey Carganilla\nSocial Creative Producer: Peter Ditzler, Tommy Bowe\nSocial Strategist: Erica Noboa, Mallory Myers\nEditorial Coordinator: Kim Wilborn\nTalent Coordinator: Selina Garcia\nOperations PA: Katie Fink\nCEO: Alessandra Catanese\nEVP of Production: Zoe Moacanin\nEVP of Programming: Kiana Parker\nExecutive Coordinator: Rachel Collis\n\nNEW SMOSH VIDEOS:\nWatch There's A Criminal Among Us: https://youtu.be/xbPBkLDdF5c\nWatch Spilling Reddit's Secrets | Reading Reddit Stories: https://youtu.be/Cx-6mKHWd2k\n\nOTHER SMOSHES:\nSmosh: https://smo.sh/Sub2Smosh\nSmosh Pit: https://smo.sh/Sub2SmoshPit\nSmosh Games: https://smo.sh/Sub2SmoshGames\nEl Smosh (Spanish Dub): https://smo.sh/Sub2ElSmosh\n\nFOLLOW US:\nTikTok: https://smo.sh/TikTok\nSnapchat: http://smo.sh/OnSnapchat\nInstagram: https://instagram.com/smosh\nFacebook: https://facebook.com/smosh"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A_mPsx7fv3lgnCujJ5a8dHDzRtI",
+      "id": "YWQjWdQ6tOA",
+      "snippet": {
+        "publishedAt": "2024-04-30T05:00:22Z",
+        "channelId": "UCD1Em4q90ZUK2R5HKesszJg",
+        "title": "Haaland for the Win! Clash of Clans x Erling Haaland",
+        "description": "Gear up for an action-packed season with Erling Haaland! Team up with the best football attacker and lead your troops to victory! \n\n\"Clash With Haaland\" season begins May 1st 08:00 AM UTC, and it brings a bunch of exciting events, challenges, temporary units, and football-themed cosmetics - including a skin of KING HAALAND! \n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. supr.cl/PlayClashOfClans\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashwithhaaland #clashofclans #haalandforthewin #haaland #haalandsong",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YWQjWdQ6tOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YWQjWdQ6tOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YWQjWdQ6tOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YWQjWdQ6tOA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YWQjWdQ6tOA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Clash of Clans",
+        "tags": [
+          "clash of clans",
+          "COC",
+          "Clash of Clans Gameplay",
+          "Clash of Clans Strategy",
+          "Clash of Clans Animation",
+          "Clash of Clans Commercial",
+          "Clash of Clans Attacks",
+          "Clash of Clans Town Hall",
+          "Hog Rider",
+          "PEKKA",
+          "Clan Wars",
+          "season challenges",
+          "clan war leagues",
+          "clash on",
+          "clan game",
+          "clan games",
+          "clash-a-rama",
+          "clasharama",
+          "haaland",
+          "erling haaland",
+          "haaland for the win",
+          "clash with haaland",
+          "football season",
+          "coc animation",
+          "clash of clans movie",
+          "haaland song",
+          "haaland chant"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Haaland for the Win! Clash of Clans x Erling Haaland",
+          "description": "Gear up for an action-packed season with Erling Haaland! Team up with the best football attacker and lead your troops to victory! \n\n\"Clash With Haaland\" season begins May 1st 08:00 AM UTC, and it brings a bunch of exciting events, challenges, temporary units, and football-themed cosmetics - including a skin of KING HAALAND! \n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. supr.cl/PlayClashOfClans\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashwithhaaland #clashofclans #haalandforthewin #haaland #haalandsong"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "smi291aVFSO5eOju3wxSpw6cFcc",
+      "id": "W25BcqpY6e0",
+      "snippet": {
+        "publishedAt": "2024-04-30T04:57:23Z",
+        "channelId": "UCqQo7ewe87aYAe7ub5UqXMw",
+        "title": "Inside the NBA reacts to Lakers vs Nuggets Game 5 Highlights",
+        "description": "🏀NBA WEEKLY BREAKDOWN -- youtube.com/playlist?list=PL_HppZy-GwSyKy1Q-DcW1l9VkpjLIpbNO\n\n📌 Follow HoH WhatsApp: whatsapp.com/channel/0029VaWxtu18kyyV3TAkKk3q\n📌 Follow HoH Instagram: https://www.instagram.com/houseofhighlights\n📌 Follow HoH TikTok: https://www.tiktok.com/@houseofhighlights\n\n#HouseofHighlights #NBA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W25BcqpY6e0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W25BcqpY6e0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W25BcqpY6e0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W25BcqpY6e0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W25BcqpY6e0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "House of Highlights",
+        "tags": [
+          "inside the nba",
+          "lakers vs nuggets",
+          "lakers vs nuggets game 5",
+          "nba season",
+          "nba season 2024",
+          "nba highlights",
+          "nba",
+          "nba full game highlights",
+          "full game highlights",
+          "long full game highlights",
+          "nba playoffs 2024",
+          "nba playoffs",
+          "nba playoffs 2024 live"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Inside the NBA reacts to Lakers vs Nuggets Game 5 Highlights",
+          "description": "🏀NBA WEEKLY BREAKDOWN -- youtube.com/playlist?list=PL_HppZy-GwSyKy1Q-DcW1l9VkpjLIpbNO\n\n📌 Follow HoH WhatsApp: whatsapp.com/channel/0029VaWxtu18kyyV3TAkKk3q\n📌 Follow HoH Instagram: https://www.instagram.com/houseofhighlights\n📌 Follow HoH TikTok: https://www.tiktok.com/@houseofhighlights\n\n#HouseofHighlights #NBA"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_WyLxK0JQ0p1ClI-tfMDuGj5TfM",
+      "id": "onWEPV5IHeI",
+      "snippet": {
+        "publishedAt": "2024-04-30T00:01:13Z",
+        "channelId": "UCw1SQ6QRRtfAhrN_cjkrOgA",
+        "title": "1v1ing My Nephew",
+        "description": "Bodhi has returned and if he wins he gets a brand new PC!!!\n🎥SECOND CHANNEL - https://www.youtube.com/user/CrushSlash\n🐤TWITTER - https://twitter.com/lazarbeam\n📷INSTAGRAM - https://instagram.com/lazarbeamyt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/onWEPV5IHeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/onWEPV5IHeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/onWEPV5IHeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/onWEPV5IHeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/onWEPV5IHeI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LazarBeam",
+        "tags": ["fortnite", "lazarbeam"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "1v1ing My Nephew",
+          "description": "Bodhi has returned and if he wins he gets a brand new PC!!!\n🎥SECOND CHANNEL - https://www.youtube.com/user/CrushSlash\n🐤TWITTER - https://twitter.com/lazarbeam\n📷INSTAGRAM - https://instagram.com/lazarbeamyt"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n_Z_tm7LdM4cCntmJ1m68Zxqgf8",
+      "id": "6akmv1bsz1M",
+      "snippet": {
+        "publishedAt": "2024-04-30T06:16:58Z",
+        "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "title": "Something Strange Happens When You Follow Einstein's Math",
+        "description": "Einstein was wrong about black holes, what else? Use code veritasium at the link below to get an exclusive 60% off an annual Incogni plan: https://incogni.com/veritasium \n\nA massive thank you to Prof. Geraint F. Lewis and Prof. Juan Maldacena for their expertise and help with this video.\n\nA huge thank you to those who helped us understand this complicated topic: Dr. Suddhasattwa Brahma, Prof. Carlo Rovelli, Dr. Hal Haggard,  Prof. Martin Bojowald, Dr. Francesca Vidotto, Prof. Andrew Hamilton, and Dr. Carl-Fredrik Nyberg Brodda.\n\nA special thanks to Alessandro Roussel from ScienceClic for his spectacular simulations and feedback on the video. Check out his channel here: https://ve42.co/ScienceClic \n\nAn excellent book on this topic and an inspiration for this video: Cox, B., & Forshaw, J. (2023). Black holes: the key to understanding the universe.\n\n▀▀▀\nSpecial thanks to our Patreon supporters! Join the community to help us keep our videos free, forever: https://ve42.co/PatreonDE \n\nAdam Foreman, Anton Ragin, Balkrishna Heroor, Bertrand Serlet, Bill Linder, Blake Byers, Burt Humburg, Chris Harper, Dave Kircher, David Johnston, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, I. H., John H. Austin, Jr., john kiehl, Josh Hibschman, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Martin, Matthias Wrobel, Max Paladino, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Stephen Wilcox, Tj Steyn, Toni , TTST, Ubiquity Ventures, wolfee\n\nIf you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\n▀▀▀\nReferences:\nThorne, K. (1995). Black Holes & Time Warps: Einstein's Outrageous Legacy. \nRelativity Playlist by ScienceClic - https://ve42.co/SCPlaylist \nHamilton, A. J. S. (2021). General Relativity, Black Holes, and Cosmology - https://ve42.co/Hamilton2021 \nBlack Hole Events by PBS Space Time - https://youtu.be/vNaEBbFbvcY?list=PLsPUh22kYmNBl4h0i4mI5zDflExXJMo_x \nNewton’s Letters via The Newton Project - https://ve42.co/NewtonMail \nEinstein, A. (1915). Die feldgleichungen der gravitation.  - https://ve42.co/Einstein1915 \nWhy Time and Space Swap by ScienceClic - https://youtu.be/GQZ3R81iyE0 \nSchwarzschild, K. (1916). Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie. - https://ve42.co/Schwarzschild1916\nWali, K. C. (1982). Chandrasekhar vs. Eddington—an unanticipated confrontation. - https://ve42.co/Wali1982\nHow to Build a Black Hole by PBS Space Time - https://www.youtube.com/watch?v=xx4562gesw0 \nOppenheimer, J. R., & Volkoff, G. M. (1939). On massive neutron cores. - https://ve42.co/TOVLimit\nOppenheimer, J. R., & Snyder, H. (1939). On continued gravitational contraction. - https://ve42.co/Oppenheimer1939\nSchwarzschild Geometry by Andrew Hamilton - https://ve42.co/SchwarzGeom\nWhy all world maps are wrong by Vox - https://www.youtube.com/watch?v=kIID5FDi2JQ \nHamilton, A. J., & Lisle, J. P. (2008). The river model of black holes. - https://ve42.co/HamiltonLisle2008 \nMapping The Multiverse by PBS Space Time - https://www.youtube.com/watch?v=4v9A9hQUcBQ \nRotating black hole via Wikipedia - https://ve42.co/WikiRBH \nWormhole Travel by PBS Space Time - https://www.youtube.com/watch?v=ldVDM-v5uz0 \nMorris, M. S., & Thorne, K. S. (1988). Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity. - https://ve42.co/MorrisThorne1988 \n\nImages & Video:\nD3 Geo Projection Library by Mike Bostock  https://ve42.co/d3geo\nInterrupted Maps by Jason Davies https://ve42.co/DaviesMaps\nKazmierczak, J. et al. (2021). NASA’s NICER Tests Matter’s Limits.  - https://ve42.co/NasaNICER\nBridgman, T. et al. (2024). M5.1 flare 'Double Whammy', at Active Regions 13559 and 13561. NASA SVS. - https://ve42.co/NasaFlare\nSchnittman, J. et al. (2019). Black Hole Accretion Disk Visualization.  - https://ve42.co/NasaAccrDisk\nWiessinger, S. et al. (2020). A Decade of Sun. NASA SVS. - https://ve42.co/NasaSunDecade\nSkelly, C. et al. (2017). What is a Neutron Star? NASA SVS. - https://ve42.co/NasaNeutron\nWhat would we see if we fell into a black hole by ScienceClic - https://youtu.be/4rTv9wvvat8 \nEarth texture - https://ve42.co/NASAEarth \nFirst image of Sgr A* - https://ve42.co/EHT1 \nImage of M87 - https://ve42.co/EHT2 \nPolarized light image of Sgr A* - https://ve42.co/EHT3  \n\n▀▀▀\nDirected by Casper Mebius\nWritten by Casper Mebius, Derek Muller and Will Wood\nEdited by Trenton Oliver\nAnimated by Fabio Albertelli, Ivy Tello, Mike Radjabov, David Szakaly, Jonny Hyman, and Alessandro Roussel\nIllustrated by Jakub Misiek\nFilmed by Derek Muller\nAdditional research by Gregor Čavlović\nProduced by Casper Mebius, Derek Muller, Will Wood, Giovanna Utichi, Rob Beasley Spence, Gregor Čavlović, and Emily Taylor\n\nThumbnail contributions by Ren Hurley and Peter Sheppard\nAdditional video/photos supplied by Getty Images, Storyblocks, and NASA SVS\nMusic from Epidemic Sound",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6akmv1bsz1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6akmv1bsz1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6akmv1bsz1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6akmv1bsz1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6akmv1bsz1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veritasium",
+        "tags": ["veritasium", "science", "physics"],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Something Strange Happens When You Follow Einstein's Math",
+          "description": "Einstein was wrong about black holes, what else? Use code veritasium at the link below to get an exclusive 60% off an annual Incogni plan: https://incogni.com/veritasium \n\nA massive thank you to Prof. Geraint F. Lewis and Prof. Juan Maldacena for their expertise and help with this video.\n\nA huge thank you to those who helped us understand this complicated topic: Dr. Suddhasattwa Brahma, Prof. Carlo Rovelli, Dr. Hal Haggard,  Prof. Martin Bojowald, Dr. Francesca Vidotto, Prof. Andrew Hamilton, and Dr. Carl-Fredrik Nyberg Brodda.\n\nA special thanks to Alessandro Roussel from ScienceClic for his spectacular simulations and feedback on the video. Check out his channel here: https://ve42.co/ScienceClic \n\nAn excellent book on this topic and an inspiration for this video: Cox, B., & Forshaw, J. (2023). Black holes: the key to understanding the universe.\n\n▀▀▀\nSpecial thanks to our Patreon supporters! Join the community to help us keep our videos free, forever: https://ve42.co/PatreonDE \n\nAdam Foreman, Anton Ragin, Balkrishna Heroor, Bertrand Serlet, Bill Linder, Blake Byers, Burt Humburg, Chris Harper, Dave Kircher, David Johnston, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, I. H., John H. Austin, Jr., john kiehl, Josh Hibschman, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Martin, Matthias Wrobel, Max Paladino, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Stephen Wilcox, Tj Steyn, Toni , TTST, Ubiquity Ventures, wolfee\n\nIf you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\n▀▀▀\nReferences:\nThorne, K. (1995). Black Holes & Time Warps: Einstein's Outrageous Legacy. \nRelativity Playlist by ScienceClic - https://ve42.co/SCPlaylist \nHamilton, A. J. S. (2021). General Relativity, Black Holes, and Cosmology - https://ve42.co/Hamilton2021 \nBlack Hole Events by PBS Space Time - https://youtu.be/vNaEBbFbvcY?list=PLsPUh22kYmNBl4h0i4mI5zDflExXJMo_x \nNewton’s Letters via The Newton Project - https://ve42.co/NewtonMail \nEinstein, A. (1915). Die feldgleichungen der gravitation.  - https://ve42.co/Einstein1915 \nWhy Time and Space Swap by ScienceClic - https://youtu.be/GQZ3R81iyE0 \nSchwarzschild, K. (1916). Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie. - https://ve42.co/Schwarzschild1916\nWali, K. C. (1982). Chandrasekhar vs. Eddington—an unanticipated confrontation. - https://ve42.co/Wali1982\nHow to Build a Black Hole by PBS Space Time - https://www.youtube.com/watch?v=xx4562gesw0 \nOppenheimer, J. R., & Volkoff, G. M. (1939). On massive neutron cores. - https://ve42.co/TOVLimit\nOppenheimer, J. R., & Snyder, H. (1939). On continued gravitational contraction. - https://ve42.co/Oppenheimer1939\nSchwarzschild Geometry by Andrew Hamilton - https://ve42.co/SchwarzGeom\nWhy all world maps are wrong by Vox - https://www.youtube.com/watch?v=kIID5FDi2JQ \nHamilton, A. J., & Lisle, J. P. (2008). The river model of black holes. - https://ve42.co/HamiltonLisle2008 \nMapping The Multiverse by PBS Space Time - https://www.youtube.com/watch?v=4v9A9hQUcBQ \nRotating black hole via Wikipedia - https://ve42.co/WikiRBH \nWormhole Travel by PBS Space Time - https://www.youtube.com/watch?v=ldVDM-v5uz0 \nMorris, M. S., & Thorne, K. S. (1988). Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity. - https://ve42.co/MorrisThorne1988 \n\nImages & Video:\nD3 Geo Projection Library by Mike Bostock  https://ve42.co/d3geo\nInterrupted Maps by Jason Davies https://ve42.co/DaviesMaps\nKazmierczak, J. et al. (2021). NASA’s NICER Tests Matter’s Limits.  - https://ve42.co/NasaNICER\nBridgman, T. et al. (2024). M5.1 flare 'Double Whammy', at Active Regions 13559 and 13561. NASA SVS. - https://ve42.co/NasaFlare\nSchnittman, J. et al. (2019). Black Hole Accretion Disk Visualization.  - https://ve42.co/NasaAccrDisk\nWiessinger, S. et al. (2020). A Decade of Sun. NASA SVS. - https://ve42.co/NasaSunDecade\nSkelly, C. et al. (2017). What is a Neutron Star? NASA SVS. - https://ve42.co/NasaNeutron\nWhat would we see if we fell into a black hole by ScienceClic - https://youtu.be/4rTv9wvvat8 \nEarth texture - https://ve42.co/NASAEarth \nFirst image of Sgr A* - https://ve42.co/EHT1 \nImage of M87 - https://ve42.co/EHT2 \nPolarized light image of Sgr A* - https://ve42.co/EHT3  \n\n▀▀▀\nDirected by Casper Mebius\nWritten by Casper Mebius, Derek Muller and Will Wood\nEdited by Trenton Oliver\nAnimated by Fabio Albertelli, Ivy Tello, Mike Radjabov, David Szakaly, Jonny Hyman, and Alessandro Roussel\nIllustrated by Jakub Misiek\nFilmed by Derek Muller\nAdditional research by Gregor Čavlović\nProduced by Casper Mebius, Derek Muller, Will Wood, Giovanna Utichi, Rob Beasley Spence, Gregor Čavlović, and Emily Taylor\n\nThumbnail contributions by Ren Hurley and Peter Sheppard\nAdditional video/photos supplied by Getty Images, Storyblocks, and NASA SVS\nMusic from Epidemic Sound"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QXx6nU-owQX7tz80opUeESyg2sg",
+      "id": "lWxenIERJhg",
+      "snippet": {
+        "publishedAt": "2024-04-29T22:00:16Z",
+        "channelId": "UC67MobFpKxrpQP59Aps9xjA",
+        "title": "JT - OKAY (Official Video)",
+        "description": "Listen to the official audio of JT's OKAY here: https://thegirljt.lnk.to/OKAY\n\nBuy Merch at: www.thegirljtworld.com\n\nFollow JT on all platforms:\n\nTikTok: https://www.tiktok.com/@thegirljtworld\nInstagram:  https://www.instagram.com/thegirljt/\nX: https://twitter.com/ThegirlJT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lWxenIERJhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lWxenIERJhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lWxenIERJhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lWxenIERJhg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lWxenIERJhg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTWORLD",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "JT - OKAY (Official Video)",
+          "description": "Listen to the official audio of JT's OKAY here: https://thegirljt.lnk.to/OKAY\n\nBuy Merch at: www.thegirljtworld.com\n\nFollow JT on all platforms:\n\nTikTok: https://www.tiktok.com/@thegirljtworld\nInstagram:  https://www.instagram.com/thegirljt/\nX: https://twitter.com/ThegirlJT"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etOX-UIK2N1QYRnkMyHC52bhF2o",
+      "id": "8qt67uXXlzc",
+      "snippet": {
+        "publishedAt": "2024-04-29T12:00:08Z",
+        "channelId": "UCi7GJNg51C3jgmYTUwqoUXA",
+        "title": "Conan Explains What Happened To His Body After “Hot Ones” | Conan O'Brien Needs A Friend",
+        "description": "Matt Gourley calls Conan the “Tom Cruise of comedy,” because of Conan’s willingness to commit to a physical comedy bit. Plus, Conan explains that his friends worried about his health when he started trending on Twitter.\n\nListen to \"Conan O'Brien Needs A Friend\" https://listen.teamcoco.com/lWCC8Vh2\n\nSubscribe to watch more Team Coco videos https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA?sub_confirmation=1\nListen to the Full Podcast  https://link.chtbl.com/conan\n \nFOLLOW TEAM COCO PODCASTS ON SOCIAL\nConan O’Brien on Twitter https://twitter.com/conanobrien/\nTeam Coco Podcasts on Instagram  https://www.instagram.com/teamcocopodcasts/\n \nFOLLOW TEAM COCO ON SOCIAL\nTeam Coco on Facebook https://www.facebook.com/teamcoco\nTeam Coco on Twitter https://twitter.com/teamcoco\nTeam Coco on Instagram  https://www.instagram.com/teamcoco/\n \nABOUT CONAN O’BRIEN NEEDS A FRIEND\nDeeper, unboundedly playful, and free from FCC regulations, Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way. Watch highlights of Conan, Sona Movsesian and Matt Gourley chatting with celebrities and meeting fans, along with special segments like “Review the Reviewers” and “Big Dick History.”\n \nABOUT TEAM COCO\nTeam Coco is the YouTube home for all things Conan O’Brien and the Team Coco Podcast Network. Team Coco features over 25 years of comedy sketches, celebrity interviews and stand-up comedy sets from CONAN on TBS and Late Night with Conan O’Brien, as well as exclusive videos from podcasts like Conan O’Brien Needs a Friend,\nLiterally! with Rob Lowe, Why Won’t You Date Me? with Nicole Byer, The Three Questions with Andy Richter, May I Elaborate? with JB Smoove and Scam Goddess with Laci Mosley.\n \nTeam Coco\nhttps://www.youtube.com/c/TeamCoco",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8qt67uXXlzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8qt67uXXlzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8qt67uXXlzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8qt67uXXlzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8qt67uXXlzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Team Coco",
+        "tags": [
+          "team coco podcasts",
+          "team coco podcast",
+          "podcast",
+          "conan obrien needs a friend",
+          "conan needs a friend",
+          "conan o’brien needs a friend",
+          "needs a friend",
+          "conan o’brien podcast",
+          "conan o’brien needs a friend podcast",
+          "celebrity interview",
+          "comedy podcast",
+          "conan podcast",
+          "matt gourley",
+          "sona movsesian",
+          "hot ones"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Conan Explains What Happened To His Body After “Hot Ones” | Conan O'Brien Needs A Friend",
+          "description": "Matt Gourley calls Conan the “Tom Cruise of comedy,” because of Conan’s willingness to commit to a physical comedy bit. Plus, Conan explains that his friends worried about his health when he started trending on Twitter.\n\nListen to \"Conan O'Brien Needs A Friend\" https://listen.teamcoco.com/lWCC8Vh2\n\nSubscribe to watch more Team Coco videos https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA?sub_confirmation=1\nListen to the Full Podcast  https://link.chtbl.com/conan\n \nFOLLOW TEAM COCO PODCASTS ON SOCIAL\nConan O’Brien on Twitter https://twitter.com/conanobrien/\nTeam Coco Podcasts on Instagram  https://www.instagram.com/teamcocopodcasts/\n \nFOLLOW TEAM COCO ON SOCIAL\nTeam Coco on Facebook https://www.facebook.com/teamcoco\nTeam Coco on Twitter https://twitter.com/teamcoco\nTeam Coco on Instagram  https://www.instagram.com/teamcoco/\n \nABOUT CONAN O’BRIEN NEEDS A FRIEND\nDeeper, unboundedly playful, and free from FCC regulations, Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way. Watch highlights of Conan, Sona Movsesian and Matt Gourley chatting with celebrities and meeting fans, along with special segments like “Review the Reviewers” and “Big Dick History.”\n \nABOUT TEAM COCO\nTeam Coco is the YouTube home for all things Conan O’Brien and the Team Coco Podcast Network. Team Coco features over 25 years of comedy sketches, celebrity interviews and stand-up comedy sets from CONAN on TBS and Late Night with Conan O’Brien, as well as exclusive videos from podcasts like Conan O’Brien Needs a Friend,\nLiterally! with Rob Lowe, Why Won’t You Date Me? with Nicole Byer, The Three Questions with Andy Richter, May I Elaborate? with JB Smoove and Scam Goddess with Laci Mosley.\n \nTeam Coco\nhttps://www.youtube.com/c/TeamCoco"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xXEY-u3trgiAY1EnJYB5N3Unmg4",
+      "id": "cw_TI06Bfds",
+      "snippet": {
+        "publishedAt": "2024-04-28T19:37:00Z",
+        "channelId": "UCwVg9btOceLQuNCdoQk9CXg",
+        "title": "I Built a Theme Park In My House!",
+        "description": "I built a GIANT theme park in my house and invited the Royalty Family to enjoy it!\n\nSubscribe below! \nROYALTY FAMILY @royaltyfam \nSTAY WILD @StayWild- \nCAM HUFF @CamHuff \n\nThank you to the engineers!\n@WillPemble @GusMachado \n\nGET THE MERCH! https://staywildshop.com\n\n☆ FOLLOW ME!\nINSTAGRAM: @BenAzelart https://www.instagram.com/benazelart/\nYOUTUBE: Ben Azelart https://www.youtube.com/benazelart/\nSNAPCHAT: @BenAzelart",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cw_TI06Bfds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cw_TI06Bfds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cw_TI06Bfds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cw_TI06Bfds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cw_TI06Bfds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ben Azelart",
+        "tags": [
+          "ben azelart",
+          "brent rivera",
+          "Lexi rivera",
+          "stokes twins",
+          "ben Azelart girlfriend",
+          "Lexi rivera boyfriend",
+          "mylifeaseva",
+          "lexi hensler",
+          "Andrew davila",
+          "pierson",
+          "Pierson wodzynski",
+          "Jeremy hutchins",
+          "dom brack",
+          "Brent and pierson",
+          "Airrack",
+          "mrbeast",
+          "preston",
+          "unspeakable",
+          "Mathew beem",
+          "Ryan trahan",
+          "royalty family",
+          "i built",
+          "secret room",
+          "water park",
+          "theme park",
+          "in my house",
+          "in my room"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Built a Theme Park In My House!",
+          "description": "I built a GIANT theme park in my house and invited the Royalty Family to enjoy it!\n\nSubscribe below! \nROYALTY FAMILY @royaltyfam \nSTAY WILD @StayWild- \nCAM HUFF @CamHuff \n\nThank you to the engineers!\n@WillPemble @GusMachado \n\nGET THE MERCH! https://staywildshop.com\n\n☆ FOLLOW ME!\nINSTAGRAM: @BenAzelart https://www.instagram.com/benazelart/\nYOUTUBE: Ben Azelart https://www.youtube.com/benazelart/\nSNAPCHAT: @BenAzelart"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0xyGmAjqrgCYzfUtk6UWXUG8PNc",
+      "id": "78fQeeEcWMQ",
+      "snippet": {
+        "publishedAt": "2024-04-29T08:01:17Z",
+        "channelId": "UCooVYzDxdwTtGYAkcPmOgOw",
+        "title": "How to get a FREE HYPERCHARGE SKIN!",
+        "description": "You WILL get a Hypercharge skin for FREE when you collect 1250 Monster Eggs with your club in the #Godzilla Egg Smashers event! 🏢🦎\n\nHere's a MONSTROUS WALL OF TEXT with all the event info (or you can watch the video)! \n\n🟢 If you're not in a Club, JOIN A CLUB!\n🟢 Collect 2 Monster Eggs from your daily wins\n🟢 Collect up to 6 Monster Eggs every 4 days from the new City Smash game mode\n🟢 The more people in your Club playing daily, the easier it gets!\n🟢 Monster Eggs give you resources, Skins (including Godzilla Buzz and his Red and Black color variations) and #MUTATIONS!\n🟢 Mutations make your Brawler stronger in weird ways and will last until the event ends!\n🟢 If you buy all the Monster Eggs from the Shop you'll get Red Godzilla Buzz\n🟢 Monster Eggs from the Shop help your whole Club\n🟢 After collecting Red Godzilla Buzz, 2 new offers for Godzilla Buzz and Black Godzilla Buzz will pop up for 399 Gems\n🟢 The Godzilla Buzz skins won't be available outside the event, so make sure to get them NOW!\n🟢 ALSO, it's Golden Week! Get a free daily Starr Drop and coins from the Shop! The Coin freebie starts at 50 coins and gets an extra +50 added on top every day for 7 days\n🟢 Now, breathe! That's it!\n\nThe event starts now! GO COLLECT MONSTER EGGS!!! 🥚 #BrawlStars\n\nDownload NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/78fQeeEcWMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/78fQeeEcWMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/78fQeeEcWMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/78fQeeEcWMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/78fQeeEcWMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Brawl Stars",
+        "tags": [
+          "brawl stars",
+          "mobile game",
+          "mobile strategy game",
+          "mobile rpg",
+          "mobile battle royale",
+          "battle royale",
+          "supercell game",
+          "godzilla",
+          "drew",
+          "dani",
+          "marzio",
+          "join a club",
+          "buzz godzilla",
+          "free buzz",
+          "hypercharge",
+          "hypercharge skin",
+          "free hypercharge skin",
+          "monster eggs",
+          "mechagodzilla",
+          "city smash",
+          "mega egg"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to get a FREE HYPERCHARGE SKIN!",
+          "description": "You WILL get a Hypercharge skin for FREE when you collect 1250 Monster Eggs with your club in the #Godzilla Egg Smashers event! 🏢🦎\n\nHere's a MONSTROUS WALL OF TEXT with all the event info (or you can watch the video)! \n\n🟢 If you're not in a Club, JOIN A CLUB!\n🟢 Collect 2 Monster Eggs from your daily wins\n🟢 Collect up to 6 Monster Eggs every 4 days from the new City Smash game mode\n🟢 The more people in your Club playing daily, the easier it gets!\n🟢 Monster Eggs give you resources, Skins (including Godzilla Buzz and his Red and Black color variations) and #MUTATIONS!\n🟢 Mutations make your Brawler stronger in weird ways and will last until the event ends!\n🟢 If you buy all the Monster Eggs from the Shop you'll get Red Godzilla Buzz\n🟢 Monster Eggs from the Shop help your whole Club\n🟢 After collecting Red Godzilla Buzz, 2 new offers for Godzilla Buzz and Black Godzilla Buzz will pop up for 399 Gems\n🟢 The Godzilla Buzz skins won't be available outside the event, so make sure to get them NOW!\n🟢 ALSO, it's Golden Week! Get a free daily Starr Drop and coins from the Shop! The Coin freebie starts at 50 coins and gets an extra +50 added on top every day for 7 days\n🟢 Now, breathe! That's it!\n\nThe event starts now! GO COLLECT MONSTER EGGS!!! 🥚 #BrawlStars\n\nDownload NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wF8NMGsb5Y9QAvVqF4tkpcpgc-0",
+      "id": "ddTV12hErTc",
+      "snippet": {
+        "publishedAt": "2024-04-30T00:21:20Z",
+        "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+        "title": "Rabbit R1: Barely Reviewable",
+        "description": "AI in a Box. But a different box.\n\nGet a dbrand skin and screen protector at https://dbrand.com/rabbit\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nR1 provided by Rabbit for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 Intro\n0:26 AI In A Box\n3:40 It’s Also Bad\n7:07 $200\n9:56 Large Action Model\n14:06 What Are We Doing Here?\n16:42 FUTURE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ddTV12hErTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ddTV12hErTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ddTV12hErTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ddTV12hErTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ddTV12hErTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marques Brownlee",
+        "tags": [
+          "Rabbit R1",
+          "Rabbit vs",
+          "Rabbit R1 vs",
+          "Human AI pin",
+          "Humane pin",
+          "MKBHD",
+          "Rabbit R1 review",
+          "AI in a box"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Rabbit R1: Barely Reviewable",
+          "description": "AI in a Box. But a different box.\n\nGet a dbrand skin and screen protector at https://dbrand.com/rabbit\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nR1 provided by Rabbit for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 Intro\n0:26 AI In A Box\n3:40 It’s Also Bad\n7:07 $200\n9:56 Large Action Model\n14:06 What Are We Doing Here?\n16:42 FUTURE"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lTRl0-_8X6sb9HVCh0bwLPpP_70",
+      "id": "DxHw4UdDJDY",
+      "snippet": {
+        "publishedAt": "2024-04-28T16:43:03Z",
+        "channelId": "UCja7QUMRG9AD8X2F_vXFb9A",
+        "title": "I Built a Secret Room in the MALL! Ft/ Ben Azelart",
+        "description": "I Built a Secret Room in the MALL! Today Ferran decides to hide from his parents and build a Secret Room with his friend @BenAzelart Lets see if his parents can find them in time...\n\n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 HERE 👉  ​⁠@royaltyfam@royaltyfam  \n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 To Gaming Channel 👉 ​⁠ @RoyaltyGaming1 \n\nMore AMAZING Videos! 👇 \n\nEating Only GAS STATION FOOD for 24 Hours!! 🤮\n👉 https://youtu.be/UtcJZnyFTQE\n\nHOME ALONE Without Parents for 24 Hours *Security Cameras*\n👉 https://youtu.be/T6IuTOAYS8k?si=iG5BjzALXi0uACvl\n\nOur Son's EPIC 13th BIRTHDAY SURPRISE!\n👉 https://youtu.be/ppAIBR_BxO4\n\nHe Finally Got His DREAM Christmas PRESENT!! **EMOTIONAL**\n👉 https://youtu.be/Ot17zf95YNA?si=SSjqvSYrj8qqMmIg\n\nFather Tries to Find his SON Blindfolded!\n👉 https://youtu.be/oiY4DK1vgBY\n\nSon Tries to Find his MOM Blindfolded!\n👉 https://youtu.be/gTPu4NtqSz4?si=BuYVHfLEmKTJdldz\n\nour Son's EPIC Birthday Surprise!\n👉 https://youtu.be/56NrzRjZDko\n\nExtreme HIDE & SEEK at LARGEST IKEA! ft/ Jordan Matter\n👉 https://youtu.be/xUB_YHSJYTc\n\nWe ADOPTED a GIRL, But Our SON Gets JEALOUS! ft/ Jordan Matter\n👉 https://youtu.be/foQIRatJyj0\n\nFERRAN Has NEW PARENTS! Goodbye Son...W/ Rebecca Zamolo\n👉 https://youtu.be/atOfjAiSdFo\n\nWatch our RECENT VIDEOS  ➡ https://bit.ly/2JotKG4\nWatch Our POPULAR VIDEOS! ➡ http://bit.ly/2NgagCx\nWatch Our CHALLENGES  ➡ https://bit.ly/2kqDqVD\n\nFOLLOW IᑎᔕTᗩGᖇᗩᗰ HERE ☟\nANDREA ➡https://www.instagram.com/andreaespadatv/\nALI           ➡https://www.instagram.com/4kpapi/\nFERRAN  ➡https://www.instagram.com/kingferran/\nMILAN    ➡https://www.instagram.com/princemilan/\nFAMILY   ➡https://www.instagram.com/royaltyfamily/\nDAWGS  ➡https://www.instagram.com/royaltydawgs/\n\nBUSINESS INQUIRIES ➡ royaltyfambusiness@gmail.com\n\nWelcome To THE ROYALTY FAMILY! We're a multicultural family based in LA, here to spread positivity. We're all about challenges, fun games, adventure, and sharing our family journey. Join us every week in sharing the good times of Andrea, Ali, Ferran & Milan (and of course, our 2 dogs Gucci & Princessa)! Best of all, we believe everyone can be ROYALTY so don’t forget to SUBSCRIBE!! \n\n#challenge #royalty #RoyaltyFamily\n\nI Built a Secret Room in the MALL! Ft/ Ben Azelart\nhttps://youtu.be/DxHw4UdDJDY\n\nThe Royalty Family\nhttp://www.youtube.com/RoyaltyFam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DxHw4UdDJDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DxHw4UdDJDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DxHw4UdDJDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DxHw4UdDJDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DxHw4UdDJDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Royalty Family",
+        "tags": [
+          "The Royalty Family",
+          "Royalty Family",
+          "Andrea Espada",
+          "Family Friendly",
+          "Royalty",
+          "Royal Family",
+          "The Royal Family",
+          "Royalty Fam",
+          "The Royalty Fam",
+          "Realty Family",
+          "Roti Family",
+          "Family Vlog",
+          "royalty family",
+          "royalty",
+          "royal",
+          "royalty fam",
+          "Ali andrea",
+          "Andrea ali",
+          "royalty gaming",
+          "royalty baby",
+          "challenge",
+          "Jordan matter",
+          "Rebecca zamolo",
+          "Dhar maan",
+          "ferran",
+          "I Survived 100 Babysitters in 24 Hours!",
+          "I Built a Secret Room in the MALL! Ft/ Ben Azelart",
+          "I built",
+          "ben azelart",
+          "secret room",
+          "in a mall"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Built a Secret Room in the MALL! Ft/ Ben Azelart",
+          "description": "I Built a Secret Room in the MALL! Today Ferran decides to hide from his parents and build a Secret Room with his friend @BenAzelart Lets see if his parents can find them in time...\n\n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 HERE 👉  ​⁠@royaltyfam@royaltyfam  \n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 To Gaming Channel 👉 ​⁠ @RoyaltyGaming1 \n\nMore AMAZING Videos! 👇 \n\nEating Only GAS STATION FOOD for 24 Hours!! 🤮\n👉 https://youtu.be/UtcJZnyFTQE\n\nHOME ALONE Without Parents for 24 Hours *Security Cameras*\n👉 https://youtu.be/T6IuTOAYS8k?si=iG5BjzALXi0uACvl\n\nOur Son's EPIC 13th BIRTHDAY SURPRISE!\n👉 https://youtu.be/ppAIBR_BxO4\n\nHe Finally Got His DREAM Christmas PRESENT!! **EMOTIONAL**\n👉 https://youtu.be/Ot17zf95YNA?si=SSjqvSYrj8qqMmIg\n\nFather Tries to Find his SON Blindfolded!\n👉 https://youtu.be/oiY4DK1vgBY\n\nSon Tries to Find his MOM Blindfolded!\n👉 https://youtu.be/gTPu4NtqSz4?si=BuYVHfLEmKTJdldz\n\nour Son's EPIC Birthday Surprise!\n👉 https://youtu.be/56NrzRjZDko\n\nExtreme HIDE & SEEK at LARGEST IKEA! ft/ Jordan Matter\n👉 https://youtu.be/xUB_YHSJYTc\n\nWe ADOPTED a GIRL, But Our SON Gets JEALOUS! ft/ Jordan Matter\n👉 https://youtu.be/foQIRatJyj0\n\nFERRAN Has NEW PARENTS! Goodbye Son...W/ Rebecca Zamolo\n👉 https://youtu.be/atOfjAiSdFo\n\nWatch our RECENT VIDEOS  ➡ https://bit.ly/2JotKG4\nWatch Our POPULAR VIDEOS! ➡ http://bit.ly/2NgagCx\nWatch Our CHALLENGES  ➡ https://bit.ly/2kqDqVD\n\nFOLLOW IᑎᔕTᗩGᖇᗩᗰ HERE ☟\nANDREA ➡https://www.instagram.com/andreaespadatv/\nALI           ➡https://www.instagram.com/4kpapi/\nFERRAN  ➡https://www.instagram.com/kingferran/\nMILAN    ➡https://www.instagram.com/princemilan/\nFAMILY   ➡https://www.instagram.com/royaltyfamily/\nDAWGS  ➡https://www.instagram.com/royaltydawgs/\n\nBUSINESS INQUIRIES ➡ royaltyfambusiness@gmail.com\n\nWelcome To THE ROYALTY FAMILY! We're a multicultural family based in LA, here to spread positivity. We're all about challenges, fun games, adventure, and sharing our family journey. Join us every week in sharing the good times of Andrea, Ali, Ferran & Milan (and of course, our 2 dogs Gucci & Princessa)! Best of all, we believe everyone can be ROYALTY so don’t forget to SUBSCRIBE!! \n\n#challenge #royalty #RoyaltyFamily\n\nI Built a Secret Room in the MALL! Ft/ Ben Azelart\nhttps://youtu.be/DxHw4UdDJDY\n\nThe Royalty Family\nhttp://www.youtube.com/RoyaltyFam"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "k_Wye4i9ilkRrxIWnRUDQ-LqmvU",
+      "id": "i7V5sI7gVAw",
+      "snippet": {
+        "publishedAt": "2024-04-29T16:24:50Z",
+        "channelId": "UCXTRFt1vLvZpahQtiKJjLaQ",
+        "title": "LIVE | AFC U23 Asian Cup Qatar 2024™ | Semi-Finals | Indonesia vs Uzbekistan",
+        "description": "Facebook: https://www.facebook.com/AFCAsianCup\nTwitter: https://twitter.com/afcasiancup\nInstagram:  http://instagram.com/afcasiancup",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i7V5sI7gVAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i7V5sI7gVAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i7V5sI7gVAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i7V5sI7gVAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i7V5sI7gVAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AFC Asian Cup",
+        "tags": [
+          "AFC Asian Cup",
+          "Asian Cup 2019",
+          "Asian Football Confederation",
+          "Asian Cup 2011",
+          "Asian Football",
+          "AFC",
+          "Asian",
+          "Cup",
+          "2019",
+          "Asian Cup 2023",
+          "Asian Cup",
+          "Asian Qualifiers",
+          "China 2023",
+          "World Cup Qualifiers",
+          "FIFA",
+          "AFC Asian Cup 2023",
+          "U17",
+          "U20",
+          "U23"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LIVE | AFC U23 Asian Cup Qatar 2024™ | Semi-Finals | Indonesia vs Uzbekistan",
+          "description": "Facebook: https://www.facebook.com/AFCAsianCup\nTwitter: https://twitter.com/afcasiancup\nInstagram:  http://instagram.com/afcasiancup"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fEWefCzvXDdMfDnylxwplmYGCL4",
+      "id": "-BxYn21PFuc",
+      "snippet": {
+        "publishedAt": "2024-04-29T23:47:49Z",
+        "channelId": "UCAeWdyKJXGWmVAXFpgLNNTg",
+        "title": "Multiple officers killed while serving warrant in North Carolina",
+        "description": "At least three law enforcement officers were killed Monday in a shooting in Charlotte, North Carolina, while executing a fugitive warrant. Chief investigative reporter Nick Ochsner of CBS affiliate WBTV reports.\n\n\"CBS Evening News with Norah O'Donnell\" delivers the latest news and original reporting, and goes beyond the headlines with context and depth. Catch the CBS Evening News every weekday night at 6:30 p.m. ET on the CBS Television Network and at 12 a.m. ET on the CBS News app.\n\nSubscribe to the \"CBS Evening News\" YouTube channel: https://youtube.com/CBSEveningNews\nWatch full episodes of \"CBS Evening News\": https://cbsnews.com/evening-news/full-episodes/\nFollow \"CBS Evening News\" on Instagram: https://instagram.com/cbseveningnews/\nLike \"CBS Evening News\" on Facebook: https://facebook.com/CBSEveningNews\nFollow \"CBS Evening News\" on Twitter: https://twitter.com/CBSEveningNews\nDownload the CBS News app: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-BxYn21PFuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-BxYn21PFuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-BxYn21PFuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-BxYn21PFuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-BxYn21PFuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS Evening News",
+        "tags": [
+          "North Carolina",
+          "Gun Violence",
+          "Shooting Death",
+          "Police Officers",
+          "Crime",
+          "CBS Evening News",
+          "U.S."
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Multiple officers killed while serving warrant in North Carolina",
+          "description": "At least three law enforcement officers were killed Monday in a shooting in Charlotte, North Carolina, while executing a fugitive warrant. Chief investigative reporter Nick Ochsner of CBS affiliate WBTV reports.\n\n\"CBS Evening News with Norah O'Donnell\" delivers the latest news and original reporting, and goes beyond the headlines with context and depth. Catch the CBS Evening News every weekday night at 6:30 p.m. ET on the CBS Television Network and at 12 a.m. ET on the CBS News app.\n\nSubscribe to the \"CBS Evening News\" YouTube channel: https://youtube.com/CBSEveningNews\nWatch full episodes of \"CBS Evening News\": https://cbsnews.com/evening-news/full-episodes/\nFollow \"CBS Evening News\" on Instagram: https://instagram.com/cbseveningnews/\nLike \"CBS Evening News\" on Facebook: https://facebook.com/CBSEveningNews\nFollow \"CBS Evening News\" on Twitter: https://twitter.com/CBSEveningNews\nDownload the CBS News app: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4gS1IVlPq3E0qnM4xpz53dF9Ap4",
+      "id": "PjIercjs5xs",
+      "snippet": {
+        "publishedAt": "2024-04-29T16:00:31Z",
+        "channelId": "UCvAhDxNNUDhi78tMXVGBUaQ",
+        "title": "I Bought A $350,000 Rolls Royce Wraith About To Be SCRAPPED (5000 Miles From Home)",
+        "description": "PDS Debt is offering a free debt analysis. It only takes thirty seconds. Get yours at►https://PDSDebt.com/tavarish.\n--------------------------------------------------------------------\nSubscribe to Sam Hard at Hard Up Garage: \nhttps://youtube.com/@Hardupgarage\n\n\nSubscribe! ►http://bit.ly/2xZGtYN\nInstagram ►https://www.instagram.com/therealtavarish\nTavarish Shirts and Merch! ►http://bit.ly/shoptavarish\n--------------------------------------------------------------------\nToday, we travel nearly 5,000 miles from home to save a Rolls Royce Wraith that was destined to be scrapped by a good friend of mine, Mat Armstrong (https://youtube.com/@matarmstrongbmx). He originally bought it as a parts car to fix his Mansory Rolls Royce Wraith Black Badge previously owned by Marcus Rashford. This should be easy...right?\n--------------------------------------------------------------------\nThanks to the companies that support this channel!\nValvoline - The Original Motor Oil►https://www.valvoline.com/\nFind your dream car on AutoTempest!►https://bit.ly/foundonautotempest\n--------------------------------------------------------------------\nQuestions? Comments? Business inquiries? Email me at asktavarish@gmail.com\n--------------------------------------------------------------------\nMy Equipment: \nSimiron Epoxy Floor Coating►https://simiron.com\nBendpak Lifts and Equipment►https://bendpak.com\n--------------------------------------------------------------------\nMusic used in this video:\nNIVIRO - You [NCS Release]►https://www.youtube.com/watch?v=2Nv5juZKhKo\n\nMalik Bash - Ghosts [NCS Release]►https://www.youtube.com/watch?v=-9Z5Nhsm7GA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PjIercjs5xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PjIercjs5xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PjIercjs5xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PjIercjs5xs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PjIercjs5xs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tavarish",
+        "tags": [
+          "aston martin",
+          "mercedes",
+          "amg",
+          "hyundai",
+          "bmw",
+          "lamborghini",
+          "ferrari",
+          "toyota",
+          "supra",
+          "mr2",
+          "sw20",
+          "3sgte",
+          "2jz",
+          "1jz",
+          "sl55",
+          "r230",
+          "r231",
+          "m113k",
+          "vantage",
+          "v8",
+          "v12",
+          "v10",
+          "v6",
+          "gallardo",
+          "turbo",
+          "cheap",
+          "budget",
+          "diy",
+          "wrench everyday",
+          "doug demuro",
+          "chrisfix",
+          "hoovies garage",
+          "tavarish",
+          "jalopnik",
+          "mightycarmods",
+          "motor trend",
+          "roadkill",
+          "hack",
+          "bendpak",
+          "tools",
+          "lift",
+          "4 post",
+          "2 post",
+          "quick jack",
+          "welding",
+          "how to",
+          "tutorial"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Bought A $350,000 Rolls Royce Wraith About To Be SCRAPPED (5000 Miles From Home)",
+          "description": "PDS Debt is offering a free debt analysis. It only takes thirty seconds. Get yours at►https://PDSDebt.com/tavarish.\n--------------------------------------------------------------------\nSubscribe to Sam Hard at Hard Up Garage: \nhttps://youtube.com/@Hardupgarage\n\n\nSubscribe! ►http://bit.ly/2xZGtYN\nInstagram ►https://www.instagram.com/therealtavarish\nTavarish Shirts and Merch! ►http://bit.ly/shoptavarish\n--------------------------------------------------------------------\nToday, we travel nearly 5,000 miles from home to save a Rolls Royce Wraith that was destined to be scrapped by a good friend of mine, Mat Armstrong (https://youtube.com/@matarmstrongbmx). He originally bought it as a parts car to fix his Mansory Rolls Royce Wraith Black Badge previously owned by Marcus Rashford. This should be easy...right?\n--------------------------------------------------------------------\nThanks to the companies that support this channel!\nValvoline - The Original Motor Oil►https://www.valvoline.com/\nFind your dream car on AutoTempest!►https://bit.ly/foundonautotempest\n--------------------------------------------------------------------\nQuestions? Comments? Business inquiries? Email me at asktavarish@gmail.com\n--------------------------------------------------------------------\nMy Equipment: \nSimiron Epoxy Floor Coating►https://simiron.com\nBendpak Lifts and Equipment►https://bendpak.com\n--------------------------------------------------------------------\nMusic used in this video:\nNIVIRO - You [NCS Release]►https://www.youtube.com/watch?v=2Nv5juZKhKo\n\nMalik Bash - Ghosts [NCS Release]►https://www.youtube.com/watch?v=-9Z5Nhsm7GA"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VJer33lfRU0gU1-0SkS2KSYjsLo",
+      "id": "IU2TQ3vAt8k",
+      "snippet": {
+        "publishedAt": "2024-04-30T08:00:07Z",
+        "channelId": "UCBrMq7wkdPWb3PxR-GUR61A",
+        "title": "Dairy News: Triple XP Week, Coins Only Task Event, and Golden Week",
+        "description": "Best. Farm. Ever. Welcome to Hay Day, the most popular farming game on mobiles and tablets, number one in 122 countries.\n\nGet Hay Day ►► https://link.haydaygame.com/\n\nLearn the lay of the land, tend to your crops, and trade goods with neighbors and friends. It’s a real special place where the crops never die even though it never rains. Sharing the farm with our quirky animals only makes things more fun!\n\nHay Day is available for devices running iOS, Android and Kindle!\n\nSubscribe for more videos ►► https://supr.cl/SubHayDay\n\nFollow us on our Socials!\n\nTwitter ►► https://twitter.com/HayDay/\nInstagram ►► https://www.instagram.com/hayday \nFacebook ►► https://www.facebook.com/haydayofficial\n\nHay Day Discord Chat ►► https://discord.gg/F7Bmubq\nHay Day Reddit ►► https://www.reddit.com/r/HayDay/\n\nQR Link: https://link.haydaygame.com/?action=voucher&code=e08d0ebd-01cc-4080-a12e-2cfc9249d26d",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IU2TQ3vAt8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IU2TQ3vAt8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IU2TQ3vAt8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IU2TQ3vAt8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IU2TQ3vAt8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hay Day",
+        "tags": [
+          "Hay Day",
+          "HayDay",
+          "Supercell",
+          "Suprcell",
+          "Farming",
+          "Farm life",
+          "mobile",
+          "tablet",
+          "mobile game",
+          "game",
+          "yt:cc=on",
+          "ios",
+          "android",
+          "amazon",
+          "series",
+          "farmer",
+          "pig",
+          "horse",
+          "cow",
+          "sheep",
+          "goat",
+          "puppy",
+          "dog",
+          "kitten",
+          "cat",
+          "fishing",
+          "sanctuary",
+          "elephant",
+          "zebra",
+          "giraffe",
+          "hippo"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dairy News: Triple XP Week, Coins Only Task Event, and Golden Week",
+          "description": "Best. Farm. Ever. Welcome to Hay Day, the most popular farming game on mobiles and tablets, number one in 122 countries.\n\nGet Hay Day ►► https://link.haydaygame.com/\n\nLearn the lay of the land, tend to your crops, and trade goods with neighbors and friends. It’s a real special place where the crops never die even though it never rains. Sharing the farm with our quirky animals only makes things more fun!\n\nHay Day is available for devices running iOS, Android and Kindle!\n\nSubscribe for more videos ►► https://supr.cl/SubHayDay\n\nFollow us on our Socials!\n\nTwitter ►► https://twitter.com/HayDay/\nInstagram ►► https://www.instagram.com/hayday \nFacebook ►► https://www.facebook.com/haydayofficial\n\nHay Day Discord Chat ►► https://discord.gg/F7Bmubq\nHay Day Reddit ►► https://www.reddit.com/r/HayDay/\n\nQR Link: https://link.haydaygame.com/?action=voucher&code=e08d0ebd-01cc-4080-a12e-2cfc9249d26d"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qI77Cs46NzDcBAiapieDkMQ_L8I",
+      "id": "07EzMbVH3QE",
+      "snippet": {
+        "publishedAt": "2024-04-29T09:00:46Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 '해야 (HEYA)' MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \nPRE-SAVE IVE SWITCH : https://www.ive-starship.com/\n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "STARSHIP",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "IVE 아이브 '해야 (HEYA)' MV",
+          "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \nPRE-SAVE IVE SWITCH : https://www.ive-starship.com/\n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wPNlrqgJPGJX53IZgoJ7pozl8q8",
+      "id": "K_DSF87l8C8",
+      "snippet": {
+        "publishedAt": "2024-04-29T09:19:56Z",
+        "channelId": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
+        "title": "Street Fighter 6 - Akuma Gameplay Trailer",
+        "description": "Akuma will unleash his rage on foes worthy enough to face him on May 22. Will you harness the power of the Satsui no Hado or succumb to the inner demon?\n\nOwners of the Deluxe and Ultimate Edition or the Year 1 Character Pass and Ultimate Pass for Street Fighter 6 will obtain Akuma immediately when he releases. Year 1 Ultimate Pass owners will also receive the new stage, Enma's Hollow.\n\nBeware the effects of the Satsui no Hado lest you become tormented by its hunger.\n\nWith the Akuma update comes a major balance patch where all characters will receive changes. Keep an eye out on our social channels for more details.\n\nhttps://streetfighter.com/6/\n\n#StreetFighter #Capcom #Akuma\n\nTwitter: http://www.twitter.com/streetfighter\nDiscord: https://discord.gg/streetfighter\nInstagram: https://www.instagram.com/streetfightergame/\nFacebook: http://www.facebook.com/streetfighter\nTwitch: http://www.twitch.tv/capcomfighters\n\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K_DSF87l8C8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K_DSF87l8C8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K_DSF87l8C8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K_DSF87l8C8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K_DSF87l8C8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street Fighter",
+        "tags": ["street", "fighter", "capcom", "street fighter 6"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Street Fighter 6 - Akuma Gameplay Trailer",
+          "description": "Akuma will unleash his rage on foes worthy enough to face him on May 22. Will you harness the power of the Satsui no Hado or succumb to the inner demon?\n\nOwners of the Deluxe and Ultimate Edition or the Year 1 Character Pass and Ultimate Pass for Street Fighter 6 will obtain Akuma immediately when he releases. Year 1 Ultimate Pass owners will also receive the new stage, Enma's Hollow.\n\nBeware the effects of the Satsui no Hado lest you become tormented by its hunger.\n\nWith the Akuma update comes a major balance patch where all characters will receive changes. Keep an eye out on our social channels for more details.\n\nhttps://streetfighter.com/6/\n\n#StreetFighter #Capcom #Akuma\n\nTwitter: http://www.twitter.com/streetfighter\nDiscord: https://discord.gg/streetfighter\nInstagram: https://www.instagram.com/streetfightergame/\nFacebook: http://www.facebook.com/streetfighter\nTwitch: http://www.twitch.tv/capcomfighters\n\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ewuJ17lZ4PuHi-UOEuiIBongX_g",
+      "id": "MMKXcl07p-A",
+      "snippet": {
+        "publishedAt": "2024-04-29T19:31:34Z",
+        "channelId": "UC0biFgrMdkv1hFAFLVePODQ",
+        "title": "Addressing the Drama | Kiki with Morphine Love Dion",
+        "description": "Let our sponsor BetterHelp connect you to a therapist who can support you - all from \rthe comfort of your own home. Visit https://betterhelp.com/trixiemattel and enjoy a special \rdiscount on your first month.\n\nMorphine Love Dion joins Trixie to discuss makeup, Drag Race tea, and THAT tweet.\n\nPre-Order the Literally F*** Trixie Mattel T-Shirt: https://trixiemattel.com/products/literally-t-shirt/\n\nFollow Morphine: \nhttps://www.instagram.com/morphinelovemua\nhttps://www.youtube.com/channel/UCbtG95xx3XTuve8OmCxMRjQ\nhttps://twitter.com/morphinelovemua\n\n\nSubscribe: https://bit.ly/subtrixie | Make sure to enable ALL push notifications! \nWatch the latest videos: https://www.youtube.com/playlist?list=PLTuL34VKrA9FXhBiF07oO8qxzkz60vmma\n\nGet 10% OFF  Trixie Cosmetics (exclusions apply)  when you sign up for texts: https://trixiecosmetics.attn.tv/p/tEE/landing-page\n\nExecutive Producer: Trixie Mattel\nProducer: Brandon Lim https://www.instagram.com/thebrandonlim\nEditor: Nick Walker https://www.instagram.com/nickwxlker\nKey Production Support: Maddie Jacobs\n\nWatch More Trixie Mattel:\nThe Bald and the Beautiful: https://youtube.com/watch?v=j7pCnjaqoIc&list=PLTuL34VKrA9ErMKGYNoe-AsRYV4qM_ocW&playnext=1 \nTrixie Cosmetics: https://youtube.com/watch?v=HADQ0ruMwTg&list=PLTuL34VKrA9ExeW7krkM23IavETPzthKa&playnext=1 \nMusic Videos: https://youtube.com/watch?v=cmQ_1Fc9X8E&list=PLTuL34VKrA9FFhWpicBVUbHf507gwx8as&playnext=1 \nMost Popular: https://www.youtube.com/playlist?list=PLTuL34VKrA9H974mTLUXfaUEdu47Lwoh8\n\nFollow Trixie Mattel: \nInstagram: https://instagram.com/trixiemattel​​​​​ \nTwitter: https://twitter.com/trixiemattel​​​​​ \nFacebook: https://facebook.com/trixie\nTikTok: https://tiktok.com/@trixie\n\nFollow Trixie Cosmetics: \nInstagram: https://instagram.com/trixiecosmetics... \nTwitter : https://twitter.com/TrixieCosmetics​​​​​ \nTikTok: https://tiktok.com/@trixiecosmetics​​​​​\n\nAbout Trixie Mattel: \nYour favorite world famous drag queen with a passion for makeup artistry, the absolute Legend, Icon, and Star Trixie Mattel! Ages 3 and Up, Accessories Sold Separately, Batteries Not Included\n\n#TrixieMattel #DragRace #MorphineLoveDion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MMKXcl07p-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MMKXcl07p-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MMKXcl07p-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MMKXcl07p-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MMKXcl07p-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Trixie Mattel",
+        "tags": [
+          "Trixie Mattel",
+          "Trixie Mattel Youtube",
+          "Trixie and Katya",
+          "Trixie",
+          "Trixie Mattel makeup",
+          "Trixie mattel music",
+          "Trixie Cosmetics",
+          "Bald and the Beautiful",
+          "drag",
+          "queen",
+          "drag queen"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Addressing the Drama | Kiki with Morphine Love Dion",
+          "description": "Let our sponsor BetterHelp connect you to a therapist who can support you - all from \rthe comfort of your own home. Visit https://betterhelp.com/trixiemattel and enjoy a special \rdiscount on your first month.\n\nMorphine Love Dion joins Trixie to discuss makeup, Drag Race tea, and THAT tweet.\n\nPre-Order the Literally F*** Trixie Mattel T-Shirt: https://trixiemattel.com/products/literally-t-shirt/\n\nFollow Morphine: \nhttps://www.instagram.com/morphinelovemua\nhttps://www.youtube.com/channel/UCbtG95xx3XTuve8OmCxMRjQ\nhttps://twitter.com/morphinelovemua\n\n\nSubscribe: https://bit.ly/subtrixie | Make sure to enable ALL push notifications! \nWatch the latest videos: https://www.youtube.com/playlist?list=PLTuL34VKrA9FXhBiF07oO8qxzkz60vmma\n\nGet 10% OFF  Trixie Cosmetics (exclusions apply)  when you sign up for texts: https://trixiecosmetics.attn.tv/p/tEE/landing-page\n\nExecutive Producer: Trixie Mattel\nProducer: Brandon Lim https://www.instagram.com/thebrandonlim\nEditor: Nick Walker https://www.instagram.com/nickwxlker\nKey Production Support: Maddie Jacobs\n\nWatch More Trixie Mattel:\nThe Bald and the Beautiful: https://youtube.com/watch?v=j7pCnjaqoIc&list=PLTuL34VKrA9ErMKGYNoe-AsRYV4qM_ocW&playnext=1 \nTrixie Cosmetics: https://youtube.com/watch?v=HADQ0ruMwTg&list=PLTuL34VKrA9ExeW7krkM23IavETPzthKa&playnext=1 \nMusic Videos: https://youtube.com/watch?v=cmQ_1Fc9X8E&list=PLTuL34VKrA9FFhWpicBVUbHf507gwx8as&playnext=1 \nMost Popular: https://www.youtube.com/playlist?list=PLTuL34VKrA9H974mTLUXfaUEdu47Lwoh8\n\nFollow Trixie Mattel: \nInstagram: https://instagram.com/trixiemattel​​​​​ \nTwitter: https://twitter.com/trixiemattel​​​​​ \nFacebook: https://facebook.com/trixie\nTikTok: https://tiktok.com/@trixie\n\nFollow Trixie Cosmetics: \nInstagram: https://instagram.com/trixiecosmetics... \nTwitter : https://twitter.com/TrixieCosmetics​​​​​ \nTikTok: https://tiktok.com/@trixiecosmetics​​​​​\n\nAbout Trixie Mattel: \nYour favorite world famous drag queen with a passion for makeup artistry, the absolute Legend, Icon, and Star Trixie Mattel! Ages 3 and Up, Accessories Sold Separately, Batteries Not Included\n\n#TrixieMattel #DragRace #MorphineLoveDion"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "V0KMxXD67mhdDGLIJGxKcHpGJ9A",
+      "id": "LZnkjtrcdWo",
+      "snippet": {
+        "publishedAt": "2024-04-29T18:14:11Z",
+        "channelId": "UCVe_RrR9AMeY6Z8ixOv5gtw",
+        "title": "Day In The Life with Twins and A Sick Husband",
+        "description": "Try Rocket Money for free! https://RocketMoney.com/rylandvlogs\n\nSubscribe to Shane! @shane  @Shane2 \n\nWatch my last vlog! https://youtu.be/eFQLAtE5seM?si=WJNlmJuqcYWlFEcc\n\nWatch Shane's new podcast! https://youtu.be/Zg_uz5iRsHM?si=w8TNN6YEvORVNhbe\nWatch Shane's new Conspiracy video! https://youtu.be/P0RsRLMAVK8?si=z3im-Ep-NcFzHljw\nPart 2! https://youtu.be/6fQ1IbHC8E8?si=GP_-9AGb7jfMC2IH\nFollow Shane! https://www.instagram.com/shanedawson/?hl=en \nShop Shanes's Merch!! https://www.shanedawsonmerch.com/collections/shop-all\n\nEditing for this video: \nMarissa Ann Patterson\nhttp://www.marissaannpatterson.com/\nCaden Finch\nhttps://www.cadenfinch.com/\n\nSubscribe to Morgan! @morgansvlogs \nFollow my mom! https://www.instagram.com/vickiadams26/?hl=en\nCheck out my Mom's amazon store! https://www.amazon.com/shop/influencer-e17144ae \nSubscribe to Lizze!  @LizzeGordonVlogs \nSubscribe to Sandy!  @SandeeYaw \nSubscribe to Chris!  @ChrisBstation \n\nWatch my latest podcast! https://youtu.be/tGmjKe3-QTo?si=lQ-hEtTjK8wEucfF \n\nFollow me on Instagram! https://www.instagram.com/rylandadams/\n\nHope you have a great day!\n\nBUSINESS EMAIL: \nrylandadams7@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LZnkjtrcdWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LZnkjtrcdWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LZnkjtrcdWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LZnkjtrcdWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LZnkjtrcdWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ryland vlogs",
+        "tags": [
+          "Ryland Adams",
+          "Shane Dawson",
+          "Ryland Vlogs",
+          "Day in the life",
+          "Newborn Twins",
+          "Taste Test",
+          "Eating",
+          "What I eat in a day",
+          "Comedy",
+          "Home"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Day In The Life with Twins and A Sick Husband",
+          "description": "Try Rocket Money for free! https://RocketMoney.com/rylandvlogs\n\nSubscribe to Shane! @shane  @Shane2 \n\nWatch my last vlog! https://youtu.be/eFQLAtE5seM?si=WJNlmJuqcYWlFEcc\n\nWatch Shane's new podcast! https://youtu.be/Zg_uz5iRsHM?si=w8TNN6YEvORVNhbe\nWatch Shane's new Conspiracy video! https://youtu.be/P0RsRLMAVK8?si=z3im-Ep-NcFzHljw\nPart 2! https://youtu.be/6fQ1IbHC8E8?si=GP_-9AGb7jfMC2IH\nFollow Shane! https://www.instagram.com/shanedawson/?hl=en \nShop Shanes's Merch!! https://www.shanedawsonmerch.com/collections/shop-all\n\nEditing for this video: \nMarissa Ann Patterson\nhttp://www.marissaannpatterson.com/\nCaden Finch\nhttps://www.cadenfinch.com/\n\nSubscribe to Morgan! @morgansvlogs \nFollow my mom! https://www.instagram.com/vickiadams26/?hl=en\nCheck out my Mom's amazon store! https://www.amazon.com/shop/influencer-e17144ae \nSubscribe to Lizze!  @LizzeGordonVlogs \nSubscribe to Sandy!  @SandeeYaw \nSubscribe to Chris!  @ChrisBstation \n\nWatch my latest podcast! https://youtu.be/tGmjKe3-QTo?si=lQ-hEtTjK8wEucfF \n\nFollow me on Instagram! https://www.instagram.com/rylandadams/\n\nHope you have a great day!\n\nBUSINESS EMAIL: \nrylandadams7@gmail.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9I9HFma2HRQTmU4anNZb3gW9DAA",
+      "id": "JWLLpGfL6DU",
+      "snippet": {
+        "publishedAt": "2024-04-29T22:33:20Z",
+        "channelId": "UC6YN4FNhAKN3MDO5DbJSnOA",
+        "title": "3 US Marshals killed, 5 officers hurt in E CLT shooting",
+        "description": "Three US Marshals were shot and killed, four Charlotte-Mecklenburg Police officers were shot and injured, and an officer from an assisting agency was hurt during a US Marshals Task Force investigation in east Charlotte Monday afternoon. \n\nThanks for stopping by Queen City News' YouTube channel! We’re proud to bring you local stories, breaking news, in-depth investigations, Charlotte-area weather, and more! \n\nSubscribe to Queen City News YouTube: https://www.youtube.com/QueenCityNews\nWatch more Queen City News videos: https://www.qcnews.com/ \n\nVisit our other social media channels!\n\nhttps://facebook.com/YQCNews\nhttps://twitter.com/Queen_City_News\nhttps://www.instagram.com/fox46charlotte/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JWLLpGfL6DU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JWLLpGfL6DU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JWLLpGfL6DU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen City News",
+        "tags": ["News", "video"],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "3 US Marshals killed, 5 officers hurt in E CLT shooting",
+          "description": "Three US Marshals were shot and killed, four Charlotte-Mecklenburg Police officers were shot and injured, and an officer from an assisting agency was hurt during a US Marshals Task Force investigation in east Charlotte Monday afternoon. \n\nThanks for stopping by Queen City News' YouTube channel! We’re proud to bring you local stories, breaking news, in-depth investigations, Charlotte-area weather, and more! \n\nSubscribe to Queen City News YouTube: https://www.youtube.com/QueenCityNews\nWatch more Queen City News videos: https://www.qcnews.com/ \n\nVisit our other social media channels!\n\nhttps://facebook.com/YQCNews\nhttps://twitter.com/Queen_City_News\nhttps://www.instagram.com/fox46charlotte/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jhUKqKWgz_8P7nOlXdGYpOIET7g",
+      "id": "0QhckPhftbQ",
+      "snippet": {
+        "publishedAt": "2024-04-29T14:00:02Z",
+        "channelId": "UCE_--R1P5-kfBzHTca0dsnw",
+        "title": "Janet Jackson Goes Sneaker Shopping With Complex",
+        "description": "Janet Jackson goes Sneaker Shopping with Complex's Joe La Puma at Stadium Goods in New York City and talks about her go-to dancing sneakers, giving away Dior x Air Jordan 1s, and Michael Jackson's iconic video with Michael Jordan.\n\nSubscribe to Complex on YouTube: https://www.youtube.com/c/Complex\n\nCheck out more of Complex here:\nhttp://www.complex.com\nhttps://twitter.com/Complex\nhttps://www.facebook.com/complex\nhttp://instagram.com/complex\n\nCOMPLEX is a community of creators and curators, armed with the Internet, committed to surfacing and sharing the voices and conversations that define our new America. Our videos exemplify convergence culture, exploring topics that include music, sneakers, style, sports, and pop culture through original shows and Complex News segments. Featuring your favorite celebrities, authoritative commentary, and a unique voice, our videos make culture pop.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0QhckPhftbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0QhckPhftbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0QhckPhftbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0QhckPhftbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0QhckPhftbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Complex",
+        "tags": [
+          "sneakerhead",
+          "complex",
+          "complex originals",
+          "sneakers",
+          "news",
+          "entertainment",
+          "culture",
+          "complex media",
+          "complex networks",
+          "sneaker shopping",
+          "goat talk",
+          "hype news",
+          "pop culture",
+          "janet jackson",
+          "janet jackson drew barrymore",
+          "janet jackson that's the way love goes",
+          "janet jackson rhythm nation",
+          "michael jackson",
+          "michael jackson janet jackson scream",
+          "scream",
+          "michael jordan"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Janet Jackson Goes Sneaker Shopping With Complex",
+          "description": "Janet Jackson goes Sneaker Shopping with Complex's Joe La Puma at Stadium Goods in New York City and talks about her go-to dancing sneakers, giving away Dior x Air Jordan 1s, and Michael Jackson's iconic video with Michael Jordan.\n\nSubscribe to Complex on YouTube: https://www.youtube.com/c/Complex\n\nCheck out more of Complex here:\nhttp://www.complex.com\nhttps://twitter.com/Complex\nhttps://www.facebook.com/complex\nhttp://instagram.com/complex\n\nCOMPLEX is a community of creators and curators, armed with the Internet, committed to surfacing and sharing the voices and conversations that define our new America. Our videos exemplify convergence culture, exploring topics that include music, sneakers, style, sports, and pop culture through original shows and Complex News segments. Featuring your favorite celebrities, authoritative commentary, and a unique voice, our videos make culture pop."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5yZcP75Rt04H6q5clw-_xU6SEjw",
+      "id": "uQUBuvXmQuU",
+      "snippet": {
+        "publishedAt": "2024-04-29T17:30:05Z",
+        "channelId": "UCRHXUZ0BxbkU2MYZgsuFgkQ",
+        "title": "BECOMING OVERPOWERED FAST - Skyrim Is A Perfectly Balanced Game With No Exploits",
+        "description": "Its 2024 and what better time to be playing skyrim! Today we are diving into a new run and exploration of the game as I intend to discover if Todd Howards wonderful and divine TESV or skyrim anniversary edition as we normies would call it, is a perfectly balanced game with no exploits. My goal today is rather simple to become as overpowered as possible using a super cheesey strategy of increasing my attack speed to a point higher than the game can process. In order to pull this off I will be using all skyrim bugs, glitches and exploits possible to create a very unique and broken skyrim build. \n\nSo whilst most of you are watching the fallout tv show and wanting me to do a fallout 4 video I am instead playing skyrim again! You cant stop me!!! Ok fine yes we will be doing a fallout video too. \n\n00:00 - Intro\n01:52 - Obtaining Skyrim's most broken weapon\n04:33 - Questing for more broken weapons\n08:09 - Creating the infinite stagger build\n12:19 - Fighting our first dragon\n15:14 - The final piece of the puzzle\n17:14 - The Ebony Warrior\n18:38 - Death of the Emperor\n20:21 - Our final test\n21:18 - Outro & Thanks for Watching!\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRHXUZ0BxbkU2MYZgsuFgkQ/join\nPatreon: https://www.patreon.com/Spiffing\nTwitter: @thespiffingbrit\nDiscord: https://discord.gg/spiffing\n\ntitle: BECOMING OVERPOWERED FAST - Skyrim Is A Perfectly Balanced Game With No Exploits\n\n#skyrim #game #funny",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uQUBuvXmQuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uQUBuvXmQuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uQUBuvXmQuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uQUBuvXmQuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uQUBuvXmQuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Spiffing Brit",
+        "tags": [
+          "thespiffingbrit",
+          "skyrim",
+          "elder scrolls",
+          "skyrim anniversary edition",
+          "skyrim special edition",
+          "skyrim glitch",
+          "skyrim exploit",
+          "spiffing brit",
+          "spiffing",
+          "skyrim bugs",
+          "exploit",
+          "glitch",
+          "bug",
+          "overpowered",
+          "overpowered build",
+          "skyrim overpowered",
+          "BECOMING OVERPOWERED FAST",
+          "Skyrim Is A Perfectly Balanced Game With No Exploits",
+          "overpowered skyrim",
+          "can you beat",
+          "skyrim gold glitch",
+          "funny moments",
+          "funny",
+          "skyrim hunters",
+          "fallout",
+          "fallout 4",
+          "bethesda",
+          "fallout tv",
+          "skyrim is broken",
+          "game glitch",
+          "gameplay"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "BECOMING OVERPOWERED FAST - Skyrim Is A Perfectly Balanced Game With No Exploits",
+          "description": "Its 2024 and what better time to be playing skyrim! Today we are diving into a new run and exploration of the game as I intend to discover if Todd Howards wonderful and divine TESV or skyrim anniversary edition as we normies would call it, is a perfectly balanced game with no exploits. My goal today is rather simple to become as overpowered as possible using a super cheesey strategy of increasing my attack speed to a point higher than the game can process. In order to pull this off I will be using all skyrim bugs, glitches and exploits possible to create a very unique and broken skyrim build. \n\nSo whilst most of you are watching the fallout tv show and wanting me to do a fallout 4 video I am instead playing skyrim again! You cant stop me!!! Ok fine yes we will be doing a fallout video too. \n\n00:00 - Intro\n01:52 - Obtaining Skyrim's most broken weapon\n04:33 - Questing for more broken weapons\n08:09 - Creating the infinite stagger build\n12:19 - Fighting our first dragon\n15:14 - The final piece of the puzzle\n17:14 - The Ebony Warrior\n18:38 - Death of the Emperor\n20:21 - Our final test\n21:18 - Outro & Thanks for Watching!\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRHXUZ0BxbkU2MYZgsuFgkQ/join\nPatreon: https://www.patreon.com/Spiffing\nTwitter: @thespiffingbrit\nDiscord: https://discord.gg/spiffing\n\ntitle: BECOMING OVERPOWERED FAST - Skyrim Is A Perfectly Balanced Game With No Exploits\n\n#skyrim #game #funny"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OLS-Wa1CyxsvL2gRWJjpIrBtYAk",
+      "id": "mp1Pax-QHlA",
+      "snippet": {
+        "publishedAt": "2024-04-29T16:00:51Z",
+        "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+        "title": "Marvel Animation's X-Men '97 | Final Trailer | Disney+",
+        "description": "Start your X-Men journey with “one of Marvel’s best projects ever.”\n\nDon't miss the first episode of the upcoming three-part finale of X-Men '97, streaming Wednesday only on @disneyplus \n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: ‪https://twitter.com/marvel\nLike Marvel on Facebook: ‪https://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: ‪http://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: ‪http://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mp1Pax-QHlA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mp1Pax-QHlA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mp1Pax-QHlA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mp1Pax-QHlA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mp1Pax-QHlA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marvel Entertainment",
+        "tags": ["marvel", "comics"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Marvel Animation's X-Men '97 | Final Trailer | Disney+",
+          "description": "Start your X-Men journey with “one of Marvel’s best projects ever.”\n\nDon't miss the first episode of the upcoming three-part finale of X-Men '97, streaming Wednesday only on @disneyplus \n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: ‪https://twitter.com/marvel\nLike Marvel on Facebook: ‪https://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: ‪http://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: ‪http://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UgJaqwFQiaRx3OjmkpNNR6888ZE",
+      "id": "DMVtUiBWVic",
+      "snippet": {
+        "publishedAt": "2024-04-29T22:33:44Z",
+        "channelId": "UCFQyVljCrdof5Uqmo8p3c0Q",
+        "title": "Community members rally outside Monroe County DA Sandra Doorley's office over viral traffic stop",
+        "description": "Monroe County District Attorney Sandra Doorley issued a video statement Monday morning, her first since the controversy surrounding her not pulling over for a traffic stop in Webster.\n\nA few hours after that video was released, a group of community members demonstrated outside of her downtown officer\n\nRead more: https://13wham.com/news/local/monroe-county-da-releases-apology-video-after-traffic-stop-controversy\n_______________\nStay up to date with our social media:\n\n13 WHAM on Facebook: https://www.facebook.com/13WHAM\n13 WHAM on Twitter: https://twitter.com/13WHAM\nSubscribe to 13 WHAM on YouTube: \nhttps://www.youtube.com/channel/UCFQyVljCrdof5Uqmo8p3c0Q/?sub_confirmation=1\n\n13 WHAM Daily News Digest:  https://www.youtube.com/playlist?list=PLuTJB6tta5ar3Fu5CumAvlvVunEP6bc9A\n\nFor more information, visit https://13wham.com/\n\nHave a news tip? Send it directly to us: \n\nEmail us: news@13wham.com\nCall the Newsroom: 585.334.8700\n\nWHAM is a NY based station and a ABC Television affiliate owned and operated by Deerfield Media, Inc and receives certain services from an affiliation of Sinclair Broadcast Group. Sinclair Broadcast Group, Inc. is one of the largest and most diversified television broadcasting companies in the country today. \n\n#13WHAM #ABCLOCAL13 #Rochester",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DMVtUiBWVic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DMVtUiBWVic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DMVtUiBWVic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DMVtUiBWVic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "13WHAM ABC News",
+        "tags": [
+          "13WHAM",
+          "News",
+          "Rochester",
+          "Buffalo",
+          "doorley",
+          "sandra doorley",
+          "traffic stop",
+          "doorley body cam",
+          "body cam",
+          "body camera",
+          "body cam video",
+          "body camera footage",
+          "monroe county",
+          "monroe county da",
+          "monroe county district attorney",
+          "da",
+          "district attorney",
+          "da sandra doorley",
+          "monroe county district attorney sandra doorley",
+          "monroe county da sandra doorley",
+          "da traffic stop",
+          "da freaks out",
+          "freak out",
+          "caught on camera"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Community members rally outside Monroe County DA Sandra Doorley's office over viral traffic stop",
+          "description": "Monroe County District Attorney Sandra Doorley issued a video statement Monday morning, her first since the controversy surrounding her not pulling over for a traffic stop in Webster.\n\nA few hours after that video was released, a group of community members demonstrated outside of her downtown officer\n\nRead more: https://13wham.com/news/local/monroe-county-da-releases-apology-video-after-traffic-stop-controversy\n_______________\nStay up to date with our social media:\n\n13 WHAM on Facebook: https://www.facebook.com/13WHAM\n13 WHAM on Twitter: https://twitter.com/13WHAM\nSubscribe to 13 WHAM on YouTube: \nhttps://www.youtube.com/channel/UCFQyVljCrdof5Uqmo8p3c0Q/?sub_confirmation=1\n\n13 WHAM Daily News Digest:  https://www.youtube.com/playlist?list=PLuTJB6tta5ar3Fu5CumAvlvVunEP6bc9A\n\nFor more information, visit https://13wham.com/\n\nHave a news tip? Send it directly to us: \n\nEmail us: news@13wham.com\nCall the Newsroom: 585.334.8700\n\nWHAM is a NY based station and a ABC Television affiliate owned and operated by Deerfield Media, Inc and receives certain services from an affiliation of Sinclair Broadcast Group. Sinclair Broadcast Group, Inc. is one of the largest and most diversified television broadcasting companies in the country today. \n\n#13WHAM #ABCLOCAL13 #Rochester"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

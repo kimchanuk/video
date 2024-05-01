@@ -1,12 +1,13 @@
 import React from 'react';
-import Navbar from './components/Navbar';
 import { Outlet } from 'react-router-dom';
+
+const APIKEY = `AIzaSyCarTD31nX5xhsSnNCD9wdp7mgbCYvJ9QM`;
 
 export default function App() {
   return (
-    <>
-      <Navbar />
+    <div>
+      header
       <Outlet />
-    </>
+    </div>
   );
 }
