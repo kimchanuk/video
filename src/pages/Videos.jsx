@@ -1,14 +1,12 @@
 import { useQuery } from '@tanstack/react-query';
-import React from 'react';
+import React, { useContext } from 'react';
 import { useParams } from 'react-router-dom';
 import VideoCard from '../components/VideoCard';
-import { search } from '../api/youtubeAPI';
-import FakeYoutubeAPI from '../api/fakeYoutubeAPI';
-
-const APIKEY = 'AIzaSyCarTD31nX5xhsSnNCD9wdp7mgbCYvJ9QM';
+import { YoutubeApiContext } from '../context/YoutubeApiContext';
 
 export default function Videos() {
   const { keyword } = useParams();
+  const { youtubeApi, fakeYoutubeApi, abc } = useContext(YoutubeApiContext);
 
   const {
     isLoading,
@@ -17,13 +15,12 @@ export default function Videos() {
   } = useQuery({
     queryKey: ['hahaha', keyword],
     queryFn: () => {
-      const youtube = new FakeYoutubeAPI();
-      return youtube.search(keyword);
+      return fakeYoutubeApi.search(keyword);
+      //mock json data = fakeYoutubeApi
+      //real api data = youtubeApi
+      //fakeYoutubeApi.search(keyword)
     },
   });
-
-  //api와 목데이터 스위치 하는 방법
-  //api 퍼블릭으로 설정할 것.
 
   return (
     <>
@@ -33,8 +30,8 @@ export default function Videos() {
 
       {videos && (
         <ul>
-          {videos.map((t, i) => {
-            return <VideoCard key={i} video={t} />;
+          {videos.map(t => {
+            return <VideoCard key={t.id} video={t} />;
           })}
         </ul>
       )}

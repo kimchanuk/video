@@ -1,6 +1,5 @@
 import axios from 'axios';
-
-export default class FakeYoutubeAPI {
+export class FakeYoutubeAPI {
   constructor() {}
 
   async search(keyword) {
@@ -18,6 +17,5 @@ export default class FakeYoutubeAPI {
       .then(res => res.data.items);
   }
 }
-
 //함수앞에 #을 붙히면 js에서는 프라이빗 함수이다.
 //프라이빗함수는 클래스 내부적으로 호출가능, 외부에서는 호출불가.
