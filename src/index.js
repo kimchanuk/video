@@ -9,6 +9,7 @@ import VideoDetail from './pages/VideoDetail';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
 const queryClient = new QueryClient();
+
 const router = createBrowserRouter([
   {
     path: '/',
