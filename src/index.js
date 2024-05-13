@@ -3,22 +3,22 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import NotFound from './pages/NotFound';
+import ErrorPage from './pages/ErrorPage';
 import Videos from './pages/Videos';
 import VideoDetail from './pages/VideoDetail';
+import { HeaderContextProvider } from './context/headerContext';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-import { YoutubeApiContextProvider } from './context/YoutubeApiContext';
 
 const queryClient = new QueryClient();
-
+const root = ReactDOM.createRoot(document.getElementById('root'));
 const router = createBrowserRouter([
   {
     path: '/',
     element: <App />,
-    errorElement: <NotFound />,
+    errorElement: <ErrorPage />,
     children: [
       {
-        index: true,
+        path: '/',
         element: <Videos />,
       },
       {
@@ -36,16 +36,14 @@ const router = createBrowserRouter([
     ],
   },
 ]);
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <QueryClientProvider client={queryClient}>
-    <YoutubeApiContextProvider>
+  <HeaderContextProvider>
+    <QueryClientProvider client={queryClient}>
       <RouterProvider router={router}>
         <App />
       </RouterProvider>
-    </YoutubeApiContextProvider>
-  </QueryClientProvider>
+    </QueryClientProvider>
+  </HeaderContextProvider>
 );
 
 //라이브러리 사용
