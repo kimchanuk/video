@@ -1,14 +1,862 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Request contains an invalid argument.",
-    "errors": [
-      {
-        "message": "Request contains an invalid argument.",
-        "domain": "global",
-        "reason": "badRequest"
+  "kind": "youtube#searchListResponse",
+  "etag": "9bOZCideaYG-78kCJmIUv4VOZiU",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ekImvs3nlQHMrqx0gLReKVBQxxk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RSFx2hutlY8"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T05:55:22Z",
+        "channelId": "UC4vtCJCrasFFEn9J4mjDZiQ",
+        "title": "alphabet lore in russian",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RSFx2hutlY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RSFx2hutlY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RSFx2hutlY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "꽃갱이 𝗞𝗞𝗢𝗧 𝗚𝗔𝗡𝗚 𝗧𝗩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T05:55:22Z"
       }
-    ],
-    "status": "INVALID_ARGUMENT"
-  }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g_YL77J0wWWwVO85Mn0GpXNvHYM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QdQvKv-H2fE"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-18T18:13:09Z",
+        "channelId": "UCgKRyB6XKOGrGCN7wg-h3iw",
+        "title": "Ladynoir💓 #miraculous #shorts #edit",
+        "description": "miraculousladybugandcatnoir #miraculous #marinette #adrien #adrinette #ladynoir #ladybug #catnoir #mlb #edit #레이디버그 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QdQvKv-H2fE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QdQvKv-H2fE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QdQvKv-H2fE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Adriennoir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-18T18:13:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ozKIlS_mzFV8n8vCAiF0V3SjQr0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sn4000RTI9Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T20:43:23Z",
+        "channelId": "UCFvmpZD_G5rX_vkpYwn_2RQ",
+        "title": "Dave and Busters Bet Me 1000 Tickets I Couldn’t Do THIS...",
+        "description": "I ALWAYS have permission before my trick shots. Don't do this at home especially without permission! Its simple fun but treat ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sn4000RTI9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sn4000RTI9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sn4000RTI9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Plunger Papi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T20:43:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "guHqbiCJPzPEQz9dP4yvSLmNGyE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pwNdiJb2RYE"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-09T06:06:34Z",
+        "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+        "title": "&#39;수비 1타 강사&#39; 김하성, 믿고 보는 호수비 #Shorts",
+        "description": "스포츠타임 #메이저리그 #MLB #김하성 #샌디에이고 #호수비 '날 따라해봐요!' 김하성은 9일 샌디에이고 펫코파크에서 열린 뉴욕 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pwNdiJb2RYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pwNdiJb2RYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pwNdiJb2RYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포타임",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-09T06:06:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fsS7SriyIcDxK6o4yRz4diYOL8o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zh0tdlD7CtU"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-18T00:27:42Z",
+        "channelId": "UCXo4tjyjVydwOaAq59ya1Ag",
+        "title": "24/7 Psychological stability music for anxious dogs｜Separation Anxiety Music &amp; Stress Relief Music",
+        "description": "Psychological stability music for anxious dogs｜Separation Anxiety Music & Stress Relief Music Nice to meet you! Thank you for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zh0tdlD7CtU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zh0tdlD7CtU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zh0tdlD7CtU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sweet Pet Music",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-18T00:27:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i6ou4K2L4Pgsi9Kea5afb4QGKL8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KjnKxvScvB4"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-08T08:46:16Z",
+        "channelId": "UCS7H8U-n5mINVJjJsaRtGHg",
+        "title": "🔴 LIVE - Shaun the Sheep Adventures | 24/7 | Shaun The Sheep 🐑 Cartoons for kids",
+        "description": "Subscribe for new videos: https://aard.mn/ShaunGlobal Welcome to the official Shaun the Sheep Global (English) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KjnKxvScvB4/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KjnKxvScvB4/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KjnKxvScvB4/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Shaun the Sheep Official",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-05-08T08:46:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oESKIj69cE-5uoCN9ly_R4iByEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YWPsEEMy2Yc"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-12T09:43:49Z",
+        "channelId": "UCunsfa6SSFxVGG74nEsGP-Q",
+        "title": "🍪MLB스낵🍪 약점?? 또 던져봐!! 4연속 패스트볼을 🔥응징🔥한 김하성의 시원한 3루타 3출루 경기 | #믈브튜브 x SPOTV",
+        "description": "김하성 #김하성3루타 #김하성타격 MLB는 언제나 SPOTV NOW ☞ http://www.spotvnow.co.kr.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YWPsEEMy2Yc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YWPsEEMy2Yc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YWPsEEMy2Yc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포일러 MLB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-12T09:43:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zytOmHxCjMZFmmLp5KcXNRrHNIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DYp0I21f2s0"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-13T08:10:56Z",
+        "channelId": "UCKNjqpNbbZ5Cvn6JifnfnhQ",
+        "title": "꽁꽁 얼어붙은 고양이 초콜릿 Kitten Chocolate Bark",
+        "description": "초콜릿 #초콜릿만들기 #chocolate #fyp #viral.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DYp0I21f2s0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DYp0I21f2s0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DYp0I21f2s0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "외줄집사 Singleline_cafe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-13T08:10:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KUsBewC8seb7bAGLKMHiviB-bDo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zOLVvzig8-s"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-13T21:04:58Z",
+        "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+        "title": "The new Apple Pencil is BONKERS",
+        "description": "shorts #tech #ipad #ipadpro #apple I spend a LOT of time trying to make my videos as concise, polished and useful as possible ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zOLVvzig8-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zOLVvzig8-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zOLVvzig8-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mrwhosetheboss",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-13T21:04:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tm4xc2CFQrb3gKRww7oFW-9xmOw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "97rd2fWR6oA"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-28T16:00:05Z",
+        "channelId": "UCcY8jz-LKzbKwuXz9tpSXJw",
+        "title": "Powered By Charles | Good-Time Energy Use",
+        "description": "Meet Charles, the friendly face of Consumers Energy who is always around to give neighborly advice. Follow him to learn how to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/97rd2fWR6oA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/97rd2fWR6oA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/97rd2fWR6oA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Consumers Energy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-28T16:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AxlzpJuzZjBAbCIvpQwIzXktPqA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gQsaPWaD798"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-26T00:19:33Z",
+        "channelId": "UCunsfa6SSFxVGG74nEsGP-Q",
+        "title": "👍수비명장면👍 실책을 막아낸 최지만, 등에 눈이 달린 키케의 말도 안되는 오버더숄더 캐치 등 5월 4주차 MLB 수비 | #믈브튜브 x SPOTV",
+        "description": "최지만 #호수비 #최지만수비 MLB는 언제나 SPOTV NOW ☞ http://www.spotvnow.co.kr.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gQsaPWaD798/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gQsaPWaD798/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQsaPWaD798/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포일러 MLB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-26T00:19:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oj38AmMLfwVXTcks6aTfPcGurkk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y7WZTEz3UAs"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-06T15:01:37Z",
+        "channelId": "UCTxBdQ7W4OmNLJCJd-gh8-Q",
+        "title": "제임스 브라운",
+        "description": "아카데미 시상식에서 네 개 부문 후보에 오른 '헬프'의 후속작. 테이트 타일러 감독, 42의 채드윅 보스만 주연. 소울의 아버지 제임스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-06T15:01:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oG0cvtwACOz1kQMZnpSbwbdlHOc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PKhB9maXGjA"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-31T11:00:04Z",
+        "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
+        "title": "No Country Wants to See This Bug, Here&#39;s Why",
+        "description": "Some animals clearly let you know they're no joke. Sharks with rows and rows of razor-sharp teeth, a scorpion's venomous stinger ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PKhB9maXGjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PKhB9maXGjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PKhB9maXGjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BRIGHT SIDE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-31T11:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pxBfhc9-F7ihKUg_uYV7k7zEd88",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Coi7rtSuO90"
+      },
+      "snippet": {
+        "publishedAt": "2012-08-29T11:49:16Z",
+        "channelId": "UCfqq0msXoC78evtF6X0AT4w",
+        "title": "투어리스트",
+        "description": "프랭크(조니 뎁)는 휴가 차 이태리, 베니스를 여행하는 평범한 미국인이다. 프랭크는 우연히 숨막히도록 아름답지만 비밀을 감추고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Coi7rtSuO90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Coi7rtSuO90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Coi7rtSuO90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-08-29T11:49:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jCrk650_uGn4nsrRciQk0fdY50M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gGIpbrDe-fU"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-23T09:00:21Z",
+        "channelId": "UCY5SJ4hCY2lSluHeXYbqG1A",
+        "title": "아기 상어들이 다 같이 태어난 날! #shortsㅣ꼬꼬스토이",
+        "description": "해양동물 #상어이름 #아기상어 오리지널 영상이 보고 싶다면 → https://youtu.be/NaqSj79d7xs 오늘 소개해드릴 해양 동물은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gGIpbrDe-fU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gGIpbrDe-fU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gGIpbrDe-fU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "꼬꼬스토이 한국어 (Korean)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-23T09:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dZFS-kSJ4sikXpbTDrcmS1_69K8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jCSADOjvgz8"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-19T08:01:26Z",
+        "channelId": "UC2lm36exeRNco0HcguJvGVQ",
+        "title": "레볼루셔너리 로드",
+        "description": "아카데미상®에 노미네이트된 레오나르도 디카프리오와 아카데미상® 수상자 케이트 윈슬렛, 두 강력한 스타가 리처드 예이츠의 동명 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-19T08:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4CxQ1xrojPMW8TwweyNPE_3ai34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6F7AA4sKpuw"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-13T21:00:03Z",
+        "channelId": "UCXxCruD2b-S0P2k9D-wqKZQ",
+        "title": "What Else Did Kodak Make?? #shorts #interesting #history #company #kodak #wwii #ryankelly #ypr",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6F7AA4sKpuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6F7AA4sKpuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6F7AA4sKpuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Youth Pastor Ryan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-13T21:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nMhtJYmrKAiWc4fSlySYepA5YoQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nyqDeyuM6Bg"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-17T08:30:10Z",
+        "channelId": "UC85mXeWRaycnlFmrhBdaAlg",
+        "title": "투게더로 집에서 아인슈패너 만드는법",
+        "description": "남자커피 쇼핑몰 https://smartstore.naver.com/ncccoffee 남자커피 인스타 https://www.instagram.com/namja_coffee/ 남자커피 채널 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nyqDeyuM6Bg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nyqDeyuM6Bg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nyqDeyuM6Bg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "남자커피 Namja Coffee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-17T08:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bjk-s2Kgjy_jLXaY0RlWbxo1KrI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RENA733tcgY"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-12T09:00:17Z",
+        "channelId": "UCkzbCw-4lXOl4Gf-AOrI_gw",
+        "title": "내각의 합이 180°가 아닌 삼각형",
+        "description": "Shorts #삼각형 #기하학 #곡면 #리만기하 #평행선 #수학 #math 평면에서의 삼각형의 내각의 합은 180도이지만 곡면에서의 삼각형의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RENA733tcgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RENA733tcgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RENA733tcgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ray 수학",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-12T09:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-x9uBs1oDncbGQQEwGLPNAzQVdI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zEetNDQ4aCs"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-18T23:00:32Z",
+        "channelId": "UChJ1aZwVkgWAUZqYGYDOWgg",
+        "title": "🐯타이거 우즈가 알려주는 높은 탄도 웨지 샷!  #shorts",
+        "description": "하이플로터 #탄도조절 #Tigerwoods PGA TOUR 생중계는 JTBC GOLF&SPORTS, LPGA 생중계는 JTBC GOLF 채널에서 시청하실 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zEetNDQ4aCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zEetNDQ4aCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zEetNDQ4aCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC GOLF",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-18T23:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dyrx0BgR1y3YqWjx8d8gk9hFaYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ik2XaTmKukw"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-19T01:39:10Z",
+        "channelId": "UCwTkXpRaXzPzKmsgUdXkb2A",
+        "title": "오페라의 유령 25주년 기념 라이브 공연",
+        "description": "860년 파리 오페라 하우스. 새로운 극단주 앙드레와 피르맹, 그리고 후원자인 라울 백작은 '한니발' 리허설을 감상하는 가운데 갑자기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ik2XaTmKukw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ik2XaTmKukw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ik2XaTmKukw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-19T01:39:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vh0clFVfjLQQQ1xYJtdwfmtgRQw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m2-dakc9aas"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-14T02:15:02Z",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "title": "Trump spokeswoman: This is so sad to see",
+        "description": "Former President Trump's legal spokeswoman Alina Habba joins 'Hannity' to discuss the latest in New York v. Trump and Michael ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m2-dakc9aas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m2-dakc9aas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m2-dakc9aas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fox News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-14T02:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MWPO7Vs17cH5T6yKT1UJcSKR3Z0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mzyRLLlk8PU"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-13T15:49:45Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "최강야구 다음이야기 - 시즌 첫 직관, 몬스터즈 vs 고려대",
+        "description": "최강야구 #최강야구예고편 #고려대 올 시즌 첫 직관 그리고.. 첫 응원의 시간✨ 관중들이 많이 있으면 있을수록 힘이 나는 것 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mzyRLLlk8PU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mzyRLLlk8PU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mzyRLLlk8PU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-13T15:49:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_c_8Gm4kdp9YMOp3NUEHi0cWLOY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qp_viaQHKAg"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-29T16:00:28Z",
+        "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
+        "title": "Simple Yet Difficult Riddles to Test Your Wits",
+        "description": "A lot of people these days take good care of their bodies and work out at the gym. Your brain also needs some good training to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qp_viaQHKAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qp_viaQHKAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qp_viaQHKAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BRIGHT SIDE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-29T16:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PnpHm2ikrYxpACZ9hzltGoqiaXs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QpiUppLbvXA"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-12T22:57:56Z",
+        "channelId": "UCrJYUCbQGM-1ojG64R34SeQ",
+        "title": "본 아이덴티티",
+        "description": "\"새로운 액션 히어로는 본이다!\" (액세스 할리우드) 놀라운 격투신이 가득한 폭발적인 액션 영화를 기대하라! 아카데미 수상자 맷 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QpiUppLbvXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QpiUppLbvXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QpiUppLbvXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-12T22:57:56Z"
+      }
+    }
+  ]
 }

@@ -1,9 +1,7 @@
-import React, { useContext, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import VideoList from '../components/VideoList';
 import { useFakeApi } from '../hooks/useFakeApi';
 import { useYoutubeApi } from '../hooks/useYoutubeApi';
-import { headerContext } from '../context/headerContext';
 
 export default function Videos() {
   const { keyword } = useParams();

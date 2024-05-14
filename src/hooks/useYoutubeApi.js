@@ -18,7 +18,7 @@ class Youtube {
       params: { key: process.env.REACT_APP_YOUTUBE_API_KEY },
     });
   }
-  async youtubeSearch(keyword) {
+  async youtubeSearch(keyword, id) {
     return keyword ? this.#searchByKeywords(keyword) : this.#mostPopular();
   }
 
